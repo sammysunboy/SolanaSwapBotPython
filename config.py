@@ -19,5 +19,5 @@ DISCORD_CHANNEL = 123456789             # Right-click channel → Copy ID
 # ==== DO NOT EDIT BELOW THIS LINE ====
 
 # Initialize connections
-payer = Keypair.from_base58_string(PRIVATE_KEY)
+payer_keypair = Keypair.from_base58_string(PRIVATE_KEY)
 client = Client(RPC)
