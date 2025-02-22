@@ -1,0 +1,1499 @@
+2025-02-21 11:34:12,394 - INFO - logging in using static token
+2025-02-21 11:34:13,136 - INFO - Bot is starting up...
+2025-02-21 11:34:13,506 - INFO - Shard ID None has connected to Gateway (Session ID: 85bb83842e671bb94cb2e35169368399).
+2025-02-21 11:34:15,514 - INFO - Logged in as outsmartchad#9773
+2025-02-21 11:34:15,515 - INFO - Monitoring channel: #general
+2025-02-21 11:34:15,515 - INFO - Starting sell checker...
+2025-02-21 12:05:24,430 - INFO - New message in #general from Captain Hook
+2025-02-21 12:05:24,430 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 12:05:40,032 - INFO - New message in #general from Captain Hook
+2025-02-21 12:05:40,032 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 12:05:47,549 - INFO - New message in #general from Captain Hook
+2025-02-21 12:05:47,549 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 12:07:23,268 - INFO - New message in #general from Captain Hook
+2025-02-21 12:07:23,268 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 12:07:37,403 - INFO - Shard ID None has successfully RESUMED session 85bb83842e671bb94cb2e35169368399.
+2025-02-21 12:08:00,573 - INFO - New message in #general from Captain Hook
+2025-02-21 12:08:00,573 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 12:08:44,904 - INFO - New message in #general from Captain Hook
+2025-02-21 12:08:44,904 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 12:08:58,335 - INFO - New message in #general from Captain Hook
+2025-02-21 12:08:58,335 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 12:09:07,471 - INFO - New message in #general from Captain Hook
+2025-02-21 12:09:07,471 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 12:10:26,726 - INFO - New message in #general from Captain Hook
+2025-02-21 12:10:26,726 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 12:23:13,261 - INFO - New message in #general from Captain Hook
+2025-02-21 12:23:13,261 - INFO - Skipping non-Raydium source: JUPITER
+2025-02-21 12:23:33,888 - INFO - New message in #general from Captain Hook
+2025-02-21 12:23:33,888 - INFO - Detected swap for token: J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:23:33,888 - INFO - Buy attempt 1 for J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:23:34,182 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 12:23:35,185 - INFO - Buy attempt 2 for J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:23:35,411 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 12:23:36,429 - INFO - Buy attempt 3 for J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:23:36,687 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 12:23:37,680 - INFO - Buy attempt 4 for J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:23:37,918 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 12:23:38,928 - INFO - Buy attempt 5 for J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:23:39,166 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 12:23:40,177 - WARNING - Failed to buy J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump after 5 attempts
+2025-02-21 12:28:06,425 - INFO - New message in #general from Captain Hook
+2025-02-21 12:28:06,425 - INFO - Detected swap for token: J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:28:06,425 - INFO - Buy attempt 1 for J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:28:06,677 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 12:28:07,689 - INFO - Buy attempt 2 for J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:28:07,925 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 12:28:08,927 - INFO - Buy attempt 3 for J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:28:09,144 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 12:28:10,149 - INFO - Buy attempt 4 for J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:28:10,374 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 12:28:11,385 - INFO - Buy attempt 5 for J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:28:11,641 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 12:28:12,657 - WARNING - Failed to buy J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump after 5 attempts
+2025-02-21 12:31:48,697 - INFO - New message in #general from Captain Hook
+2025-02-21 12:31:48,697 - INFO - Detected swap for token: J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:31:48,697 - INFO - Buy attempt 1 for J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:31:48,972 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 12:31:49,978 - INFO - Buy attempt 2 for J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:31:50,234 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 12:31:51,236 - INFO - Buy attempt 3 for J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:31:51,507 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 12:31:52,516 - INFO - Buy attempt 4 for J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:31:52,802 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 12:31:53,804 - INFO - Buy attempt 5 for J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:31:54,063 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 12:31:55,064 - WARNING - Failed to buy J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump after 5 attempts
+2025-02-21 12:37:03,505 - INFO - New message in #general from Captain Hook
+2025-02-21 12:37:03,505 - INFO - Detected swap for token: J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:37:03,505 - INFO - Buy attempt 1 for J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:37:03,783 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 12:37:04,787 - INFO - Buy attempt 2 for J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:37:05,015 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 12:37:06,017 - INFO - Buy attempt 3 for J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:37:06,271 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 12:37:07,277 - INFO - Buy attempt 4 for J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:37:07,525 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 12:37:08,533 - INFO - Buy attempt 5 for J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump
+2025-02-21 12:37:08,780 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 12:37:09,792 - WARNING - Failed to buy J3jxaHJNJfL9q7Hh8JGQcLAuzesH4VtTpAkYnAqTpump after 5 attempts
+2025-02-21 12:39:43,765 - INFO - New message in #general from Captain Hook
+2025-02-21 12:39:43,765 - INFO - Detected swap for token: 5FNnQHScAEFxeaFsgJrY4cGeQDccgdq5tsDpJUUEpump
+2025-02-21 12:39:43,765 - INFO - Buy attempt 1 for 5FNnQHScAEFxeaFsgJrY4cGeQDccgdq5tsDpJUUEpump
+2025-02-21 12:39:47,513 - INFO - Successfully bought 5FNnQHScAEFxeaFsgJrY4cGeQDccgdq5tsDpJUUEpump
+2025-02-21 12:39:52,553 - INFO - Time to sell 5FNnQHScAEFxeaFsgJrY4cGeQDccgdq5tsDpJUUEpump
+2025-02-21 12:39:52,553 - INFO - Sell attempt 1 for 5FNnQHScAEFxeaFsgJrY4cGeQDccgdq5tsDpJUUEpump with 30% slippage
+2025-02-21 12:39:52,666 - ERROR - Error during sell attempt: unsupported operand type(s) for *: 'NoneType' and 'float'
+2025-02-21 12:39:52,666 - INFO - Sell attempt failed, increasing slippage to 35%
+2025-02-21 12:39:53,683 - INFO - Sell attempt 2 for 5FNnQHScAEFxeaFsgJrY4cGeQDccgdq5tsDpJUUEpump with 35% slippage
+2025-02-21 12:39:53,790 - ERROR - Error during sell attempt: unsupported operand type(s) for *: 'NoneType' and 'float'
+2025-02-21 12:39:53,790 - INFO - Sell attempt failed, increasing slippage to 40%
+2025-02-21 12:39:54,791 - INFO - Sell attempt 3 for 5FNnQHScAEFxeaFsgJrY4cGeQDccgdq5tsDpJUUEpump with 40% slippage
+2025-02-21 12:39:54,918 - ERROR - Error during sell attempt: unsupported operand type(s) for *: 'NoneType' and 'float'
+2025-02-21 12:39:54,918 - INFO - Sell attempt failed, increasing slippage to 45%
+2025-02-21 12:39:55,920 - INFO - Sell attempt 4 for 5FNnQHScAEFxeaFsgJrY4cGeQDccgdq5tsDpJUUEpump with 45% slippage
+2025-02-21 12:39:56,080 - ERROR - Error during sell attempt: unsupported operand type(s) for *: 'NoneType' and 'float'
+2025-02-21 12:39:56,080 - INFO - Sell attempt failed, increasing slippage to 50%
+2025-02-21 12:39:57,082 - INFO - Sell attempt 5 for 5FNnQHScAEFxeaFsgJrY4cGeQDccgdq5tsDpJUUEpump with 50% slippage
+2025-02-21 12:40:01,068 - INFO - Successfully sold 5FNnQHScAEFxeaFsgJrY4cGeQDccgdq5tsDpJUUEpump with 50% slippage
+2025-02-21 12:41:51,515 - INFO - Shard ID None has successfully RESUMED session 85bb83842e671bb94cb2e35169368399.
+2025-02-21 12:42:16,621 - INFO - New message in #general from Captain Hook
+2025-02-21 12:42:16,621 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 12:42:30,817 - INFO - New message in #general from Captain Hook
+2025-02-21 12:42:30,817 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 12:42:38,082 - INFO - New message in #general from Captain Hook
+2025-02-21 12:42:38,082 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 12:44:14,768 - INFO - New message in #general from Captain Hook
+2025-02-21 12:44:14,768 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 12:44:52,487 - INFO - New message in #general from Captain Hook
+2025-02-21 12:44:52,502 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 12:45:34,300 - INFO - New message in #general from Captain Hook
+2025-02-21 12:45:34,300 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 12:45:49,172 - INFO - New message in #general from Captain Hook
+2025-02-21 12:45:49,172 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 12:45:57,033 - INFO - New message in #general from Captain Hook
+2025-02-21 12:45:57,048 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 12:47:18,929 - INFO - New message in #general from Captain Hook
+2025-02-21 12:47:18,929 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 12:50:29,831 - INFO - New message in #general from Captain Hook
+2025-02-21 12:50:29,832 - INFO - Detected swap for token: 5FNnQHScAEFxeaFsgJrY4cGeQDccgdq5tsDpJUUEpump
+2025-02-21 12:50:29,834 - INFO - Buy attempt 1 for 5FNnQHScAEFxeaFsgJrY4cGeQDccgdq5tsDpJUUEpump
+2025-02-21 12:50:33,714 - INFO - Successfully bought 5FNnQHScAEFxeaFsgJrY4cGeQDccgdq5tsDpJUUEpump
+2025-02-21 12:50:38,747 - INFO - Time to sell 5FNnQHScAEFxeaFsgJrY4cGeQDccgdq5tsDpJUUEpump
+2025-02-21 12:50:38,747 - INFO - Sell attempt 1 for 5FNnQHScAEFxeaFsgJrY4cGeQDccgdq5tsDpJUUEpump with 30% slippage
+2025-02-21 12:50:38,865 - INFO - Sell attempt failed, increasing slippage to 35%
+2025-02-21 12:50:39,880 - INFO - Sell attempt 2 for 5FNnQHScAEFxeaFsgJrY4cGeQDccgdq5tsDpJUUEpump with 35% slippage
+2025-02-21 12:50:39,956 - INFO - Sell attempt failed, increasing slippage to 40%
+2025-02-21 12:50:40,967 - INFO - Sell attempt 3 for 5FNnQHScAEFxeaFsgJrY4cGeQDccgdq5tsDpJUUEpump with 40% slippage
+2025-02-21 12:50:41,058 - INFO - Sell attempt failed, increasing slippage to 45%
+2025-02-21 12:50:42,072 - INFO - Sell attempt 4 for 5FNnQHScAEFxeaFsgJrY4cGeQDccgdq5tsDpJUUEpump with 45% slippage
+2025-02-21 12:50:42,159 - INFO - Sell attempt failed, increasing slippage to 50%
+2025-02-21 12:50:43,163 - INFO - Sell attempt 5 for 5FNnQHScAEFxeaFsgJrY4cGeQDccgdq5tsDpJUUEpump with 50% slippage
+2025-02-21 12:50:43,247 - INFO - Sell attempt failed, increasing slippage to 55%
+2025-02-21 12:50:44,262 - INFO - Sell attempt 6 for 5FNnQHScAEFxeaFsgJrY4cGeQDccgdq5tsDpJUUEpump with 55% slippage
+2025-02-21 12:50:44,388 - INFO - Sell attempt failed, increasing slippage to 60%
+2025-02-21 12:50:45,390 - INFO - Sell attempt 7 for 5FNnQHScAEFxeaFsgJrY4cGeQDccgdq5tsDpJUUEpump with 60% slippage
+2025-02-21 12:50:45,518 - INFO - Sell attempt failed, increasing slippage to 65%
+2025-02-21 12:50:46,523 - INFO - Sell attempt 8 for 5FNnQHScAEFxeaFsgJrY4cGeQDccgdq5tsDpJUUEpump with 65% slippage
+2025-02-21 12:50:50,400 - INFO - Successfully sold 5FNnQHScAEFxeaFsgJrY4cGeQDccgdq5tsDpJUUEpump with 65% slippage
+2025-02-21 12:51:52,614 - INFO - logging in using static token
+2025-02-21 12:51:53,265 - INFO - Bot is starting up...
+2025-02-21 12:51:53,707 - INFO - Shard ID None has connected to Gateway (Session ID: dc281cafe94af248017464322c27ba45).
+2025-02-21 12:51:55,716 - INFO - Logged in as outsmartchad#9773
+2025-02-21 12:51:55,716 - INFO - Monitoring channel: #general
+2025-02-21 12:51:55,717 - INFO - Monitoring trades...
+2025-02-21 12:53:15,406 - INFO - logging in using static token
+2025-02-21 12:53:16,007 - INFO - Bot is starting up...
+2025-02-21 12:53:16,503 - INFO - Shard ID None has connected to Gateway (Session ID: d0fd9de9fcb7d554becd85473c64ff22).
+2025-02-21 12:53:18,518 - INFO - Logged in as outsmartchad#9773
+2025-02-21 12:53:18,518 - INFO - Monitoring channel: #general
+2025-02-21 12:53:18,518 - INFO - Monitoring trades...
+2025-02-21 12:55:49,808 - INFO - logging in using static token
+2025-02-21 12:55:50,364 - INFO - Bot is starting up...
+2025-02-21 12:55:50,782 - INFO - Shard ID None has connected to Gateway (Session ID: 39647a016f72361845ce8c31deb78fda).
+2025-02-21 12:55:52,798 - INFO - Logged in as outsmartchad#9773
+2025-02-21 12:55:52,798 - INFO - Monitoring channel: #general
+2025-02-21 12:55:52,799 - INFO - Monitoring trades...
+2025-02-21 13:14:45,584 - INFO - logging in using static token
+2025-02-21 13:14:46,298 - INFO - Bot is starting up...
+2025-02-21 13:14:46,764 - INFO - Shard ID None has connected to Gateway (Session ID: ac5ff136e19c9151ce1922153b2435dd).
+2025-02-21 13:14:48,779 - INFO - Logged in as outsmartchad#9773
+2025-02-21 13:14:48,780 - INFO - Monitoring channel: #general
+2025-02-21 13:14:48,781 - INFO - Starting sell checker...
+2025-02-21 13:19:07,459 - INFO - New message in #general from Captain Hook
+2025-02-21 13:19:07,459 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 13:19:23,080 - INFO - New message in #general from Captain Hook
+2025-02-21 13:19:23,080 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 13:19:31,766 - INFO - New message in #general from Captain Hook
+2025-02-21 13:19:31,766 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 13:21:06,403 - INFO - New message in #general from Captain Hook
+2025-02-21 13:21:06,403 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 13:21:43,891 - INFO - New message in #general from Captain Hook
+2025-02-21 13:21:43,891 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 13:22:27,654 - INFO - New message in #general from Captain Hook
+2025-02-21 13:22:27,657 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 13:22:41,531 - INFO - New message in #general from Captain Hook
+2025-02-21 13:22:41,531 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 13:22:50,845 - INFO - New message in #general from Captain Hook
+2025-02-21 13:22:50,845 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 13:22:59,258 - INFO - New message in #general from Captain Hook
+2025-02-21 13:22:59,259 - INFO - Skipping non-Raydium source: JUPITER
+2025-02-21 13:24:09,825 - INFO - New message in #general from Captain Hook
+2025-02-21 13:24:09,825 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 13:45:58,521 - INFO - Shard ID None has successfully RESUMED session ac5ff136e19c9151ce1922153b2435dd.
+2025-02-21 13:55:58,170 - INFO - New message in #general from Captain Hook
+2025-02-21 13:55:58,170 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 13:56:13,375 - INFO - New message in #general from Captain Hook
+2025-02-21 13:56:13,375 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 13:56:20,337 - INFO - New message in #general from Captain Hook
+2025-02-21 13:56:20,337 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 13:57:54,347 - INFO - New message in #general from Captain Hook
+2025-02-21 13:57:54,347 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 13:58:31,625 - INFO - New message in #general from Captain Hook
+2025-02-21 13:58:31,625 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 13:59:15,408 - INFO - New message in #general from Captain Hook
+2025-02-21 13:59:15,408 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 13:59:31,082 - INFO - New message in #general from Captain Hook
+2025-02-21 13:59:31,082 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 13:59:37,825 - INFO - New message in #general from Captain Hook
+2025-02-21 13:59:37,825 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 14:01:01,541 - INFO - New message in #general from Captain Hook
+2025-02-21 14:01:01,541 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 14:08:01,822 - INFO - New message in #general from Captain Hook
+2025-02-21 14:08:01,822 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 14:08:15,829 - INFO - New message in #general from Captain Hook
+2025-02-21 14:08:15,829 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 14:08:23,867 - INFO - New message in #general from Captain Hook
+2025-02-21 14:08:23,867 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 14:09:58,522 - INFO - New message in #general from Captain Hook
+2025-02-21 14:09:58,522 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 14:10:35,019 - INFO - New message in #general from Captain Hook
+2025-02-21 14:10:35,019 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 14:11:20,634 - INFO - New message in #general from Captain Hook
+2025-02-21 14:11:20,634 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 14:11:34,416 - INFO - New message in #general from Captain Hook
+2025-02-21 14:11:34,417 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 14:11:41,902 - INFO - New message in #general from Captain Hook
+2025-02-21 14:11:41,902 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 14:13:03,341 - INFO - New message in #general from Captain Hook
+2025-02-21 14:13:03,343 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 14:14:56,773 - INFO - Shard ID None has successfully RESUMED session ac5ff136e19c9151ce1922153b2435dd.
+2025-02-21 14:20:47,014 - INFO - New message in #general from Captain Hook
+2025-02-21 14:20:47,014 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 14:21:10,219 - INFO - New message in #general from Captain Hook
+2025-02-21 14:21:10,220 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 14:22:46,958 - INFO - New message in #general from Captain Hook
+2025-02-21 14:22:46,959 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 14:23:23,197 - INFO - New message in #general from Captain Hook
+2025-02-21 14:23:23,197 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 14:24:06,156 - INFO - New message in #general from Captain Hook
+2025-02-21 14:24:06,156 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 14:24:28,382 - INFO - New message in #general from Captain Hook
+2025-02-21 14:24:28,385 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 14:25:50,942 - INFO - New message in #general from Captain Hook
+2025-02-21 14:25:50,942 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 14:45:20,181 - INFO - New message in #general from Captain Hook
+2025-02-21 14:45:20,181 - WARNING - No token address found in swap message
+2025-02-21 14:46:39,517 - INFO - New message in #general from Captain Hook
+2025-02-21 14:46:39,517 - INFO - Skipping non-Raydium source: JUPITER
+2025-02-21 14:57:33,049 - INFO - New message in #general from Captain Hook
+2025-02-21 14:57:33,049 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 14:59:31,285 - INFO - New message in #general from Captain Hook
+2025-02-21 14:59:31,285 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 15:00:09,386 - INFO - New message in #general from Captain Hook
+2025-02-21 15:00:09,386 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 15:00:54,168 - INFO - New message in #general from Captain Hook
+2025-02-21 15:00:54,168 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 15:02:36,959 - INFO - New message in #general from Captain Hook
+2025-02-21 15:02:36,960 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 15:13:25,928 - INFO - Shard ID None has successfully RESUMED session ac5ff136e19c9151ce1922153b2435dd.
+2025-02-21 15:34:25,503 - INFO - New message in #general from Captain Hook
+2025-02-21 15:34:25,503 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 15:34:38,148 - INFO - New message in #general from Captain Hook
+2025-02-21 15:34:38,148 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 15:36:21,852 - INFO - New message in #general from Captain Hook
+2025-02-21 15:36:21,852 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 15:36:57,615 - INFO - New message in #general from Captain Hook
+2025-02-21 15:36:57,615 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 15:37:42,885 - INFO - New message in #general from Captain Hook
+2025-02-21 15:37:42,885 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 15:37:57,366 - INFO - New message in #general from Captain Hook
+2025-02-21 15:37:57,366 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 15:39:26,505 - INFO - New message in #general from Captain Hook
+2025-02-21 15:39:26,505 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 16:11:18,407 - INFO - New message in #general from Captain Hook
+2025-02-21 16:11:18,407 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 16:11:31,940 - INFO - New message in #general from Captain Hook
+2025-02-21 16:11:31,940 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 16:13:14,517 - INFO - New message in #general from Captain Hook
+2025-02-21 16:13:14,518 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 16:13:51,031 - INFO - New message in #general from Captain Hook
+2025-02-21 16:13:51,032 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 16:14:36,239 - INFO - New message in #general from Captain Hook
+2025-02-21 16:14:36,239 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 16:14:49,693 - INFO - New message in #general from Captain Hook
+2025-02-21 16:14:49,693 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 16:16:19,339 - INFO - New message in #general from Captain Hook
+2025-02-21 16:16:19,339 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 16:44:11,597 - INFO - New message in #general from untick
+2025-02-21 16:48:13,033 - INFO - New message in #general from Captain Hook
+2025-02-21 16:48:13,033 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 16:48:28,345 - INFO - New message in #general from Captain Hook
+2025-02-21 16:48:28,345 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 16:49:02,207 - INFO - New message in #general from Captain Hook
+2025-02-21 16:49:02,207 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 16:50:06,291 - INFO - New message in #general from Captain Hook
+2025-02-21 16:50:06,291 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 16:50:43,566 - INFO - New message in #general from Captain Hook
+2025-02-21 16:50:43,566 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 16:51:28,777 - INFO - New message in #general from Captain Hook
+2025-02-21 16:51:28,777 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 16:51:43,502 - INFO - New message in #general from Captain Hook
+2025-02-21 16:51:43,502 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 16:52:12,686 - INFO - New message in #general from Captain Hook
+2025-02-21 16:52:12,686 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 16:53:12,524 - INFO - New message in #general from Captain Hook
+2025-02-21 16:53:12,524 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 17:09:44,020 - INFO - New message in #general from Captain Hook
+2025-02-21 17:09:44,020 - INFO - Skipping non-Raydium source: JUPITER
+2025-02-21 17:19:19,349 - INFO - Shard ID None has successfully RESUMED session ac5ff136e19c9151ce1922153b2435dd.
+2025-02-21 17:25:10,334 - INFO - New message in #general from Captain Hook
+2025-02-21 17:25:10,334 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 17:25:26,732 - INFO - New message in #general from Captain Hook
+2025-02-21 17:25:26,732 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 17:26:01,260 - INFO - New message in #general from Captain Hook
+2025-02-21 17:26:01,260 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 17:27:09,928 - INFO - New message in #general from Captain Hook
+2025-02-21 17:27:09,928 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 17:27:44,521 - INFO - New message in #general from Captain Hook
+2025-02-21 17:27:44,521 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 17:28:29,657 - INFO - New message in #general from Captain Hook
+2025-02-21 17:28:29,657 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 17:28:44,492 - INFO - New message in #general from Captain Hook
+2025-02-21 17:28:44,492 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 17:29:13,040 - INFO - New message in #general from Captain Hook
+2025-02-21 17:29:13,040 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 17:30:11,630 - INFO - New message in #general from Captain Hook
+2025-02-21 17:30:11,630 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 18:01:58,352 - INFO - New message in #general from Captain Hook
+2025-02-21 18:01:58,353 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 18:02:13,391 - INFO - New message in #general from Captain Hook
+2025-02-21 18:02:13,391 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 18:02:50,762 - INFO - New message in #general from Captain Hook
+2025-02-21 18:02:50,762 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 18:03:56,275 - INFO - New message in #general from Captain Hook
+2025-02-21 18:03:56,275 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 18:04:33,672 - INFO - New message in #general from Captain Hook
+2025-02-21 18:04:33,672 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 18:05:19,892 - INFO - New message in #general from Captain Hook
+2025-02-21 18:05:19,892 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 18:05:33,166 - INFO - New message in #general from Captain Hook
+2025-02-21 18:05:33,166 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 18:06:03,166 - INFO - New message in #general from Captain Hook
+2025-02-21 18:06:03,166 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 18:07:00,742 - INFO - New message in #general from Captain Hook
+2025-02-21 18:07:00,742 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 18:16:04,325 - INFO - New message in #general from Captain Hook
+2025-02-21 18:16:04,325 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 18:16:16,936 - INFO - New message in #general from Captain Hook
+2025-02-21 18:16:16,936 - INFO - Detected sell swap for token: a9fumtpyhl17qkaystrdehcwgwycjxynzuyjw4d4pump
+2025-02-21 18:16:16,936 - INFO - No active trade found for a9fumtpyhl17qkaystrdehcwgwycjxynzuyjw4d4pump, ignoring sell signal
+2025-02-21 18:19:06,160 - INFO - logging in using static token
+2025-02-21 18:19:06,740 - INFO - Bot is starting up...
+2025-02-21 18:19:07,147 - INFO - Shard ID None has connected to Gateway (Session ID: 8cdf9d105e4a37e1b0e3ff8ddb941100).
+2025-02-21 18:19:09,158 - INFO - Logged in as outsmartchad#9773
+2025-02-21 18:19:09,158 - INFO - Monitoring channel: #general
+2025-02-21 18:19:09,158 - INFO - Monitoring incoming messages...
+2025-02-21 18:38:52,794 - INFO - New message in #general from Captain Hook
+2025-02-21 18:38:52,801 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 18:39:10,391 - INFO - New message in #general from Captain Hook
+2025-02-21 18:39:10,391 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 18:39:46,827 - INFO - New message in #general from Captain Hook
+2025-02-21 18:39:46,827 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 18:40:52,458 - INFO - New message in #general from Captain Hook
+2025-02-21 18:40:52,458 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 18:41:28,243 - INFO - New message in #general from Captain Hook
+2025-02-21 18:41:28,243 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 18:42:11,699 - INFO - New message in #general from Captain Hook
+2025-02-21 18:42:11,700 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 18:42:26,896 - INFO - New message in #general from Captain Hook
+2025-02-21 18:42:26,896 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 18:42:56,655 - INFO - New message in #general from Captain Hook
+2025-02-21 18:42:56,655 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 18:43:55,043 - INFO - New message in #general from Captain Hook
+2025-02-21 18:43:55,043 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 18:45:29,300 - INFO - New message in #general from Captain Hook
+2025-02-21 18:45:29,300 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 18:45:48,034 - INFO - New message in #general from Captain Hook
+2025-02-21 18:45:48,036 - WARNING - No token address found in swap message
+2025-02-21 18:53:31,336 - INFO - New message in #general from Captain Hook
+2025-02-21 18:53:31,336 - WARNING - No token address found in swap message
+2025-02-21 18:54:09,593 - INFO - logging in using static token
+2025-02-21 18:54:10,246 - INFO - Bot is starting up...
+2025-02-21 18:54:10,663 - INFO - Shard ID None has connected to Gateway (Session ID: 90aad1a55e9666b01577efe27644cce4).
+2025-02-21 18:54:12,683 - INFO - Logged in as outsmartchad#9773
+2025-02-21 18:54:12,683 - INFO - Monitoring channel: #general
+2025-02-21 18:54:12,683 - INFO - Monitoring incoming messages...
+2025-02-21 18:54:16,674 - INFO - New message in #general from Captain Hook
+2025-02-21 18:54:16,674 - INFO - Detected sell swap for token: HRqNoAHzcvxRwMf64gz9C6DHKW1icgjebjvK23ikpump
+2025-02-21 18:54:16,674 - INFO - No active trade found for HRqNoAHzcvxRwMf64gz9C6DHKW1icgjebjvK23ikpump, ignoring sell signal
+2025-02-21 18:54:29,753 - INFO - New message in #general from Captain Hook
+2025-02-21 18:54:29,769 - INFO - Detected sell swap for token: 4Qx25UE4YzQaSn5M3M9Fo1kpEwAnifisoivKWFvmpump
+2025-02-21 18:54:29,769 - INFO - No active trade found for 4Qx25UE4YzQaSn5M3M9Fo1kpEwAnifisoivKWFvmpump, ignoring sell signal
+2025-02-21 18:56:50,003 - INFO - New message in #general from Captain Hook
+2025-02-21 18:56:50,003 - INFO - Detected buy swap for token: HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump
+2025-02-21 18:56:50,003 - INFO - Buy attempt 1 for HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump
+2025-02-21 18:56:53,738 - INFO - Successfully bought HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump
+2025-02-21 18:57:18,906 - INFO - Time to sell HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump
+2025-02-21 18:57:18,906 - INFO - Starting sell for HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump with initial slippage 30% (Reason: hold_time_reached)
+2025-02-21 18:57:18,906 - INFO - Sell attempt 1 for HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump with 30% slippage
+2025-02-21 18:57:22,797 - INFO - Successfully sold HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump with 30% slippage
+2025-02-21 18:57:50,931 - INFO - New message in #general from Captain Hook
+2025-02-21 18:57:50,931 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 19:01:06,816 - INFO - New message in #general from Captain Hook
+2025-02-21 19:01:06,817 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 19:06:31,181 - INFO - New message in #general from Captain Hook
+2025-02-21 19:06:31,181 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 19:06:46,904 - INFO - New message in #general from Captain Hook
+2025-02-21 19:06:46,919 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 19:07:22,864 - INFO - New message in #general from Captain Hook
+2025-02-21 19:07:22,864 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 19:08:29,402 - INFO - New message in #general from Captain Hook
+2025-02-21 19:08:29,402 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 19:09:05,177 - INFO - New message in #general from Captain Hook
+2025-02-21 19:09:05,177 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 19:09:32,115 - INFO - Shard ID None has successfully RESUMED session 90aad1a55e9666b01577efe27644cce4.
+2025-02-21 19:09:50,576 - INFO - New message in #general from Captain Hook
+2025-02-21 19:09:50,576 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 19:10:03,130 - INFO - New message in #general from Captain Hook
+2025-02-21 19:10:03,130 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 19:10:33,886 - INFO - New message in #general from Captain Hook
+2025-02-21 19:10:33,886 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 19:11:31,190 - INFO - New message in #general from Captain Hook
+2025-02-21 19:11:31,190 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 19:31:55,836 - INFO - New message in #general from Captain Hook
+2025-02-21 19:31:55,837 - INFO - Detected sell swap for token: EZBFL1pXEFNVFcG9yyeKhPtmHFeebzxxCdH1woQ7pump
+2025-02-21 19:31:55,840 - INFO - No active trade found for EZBFL1pXEFNVFcG9yyeKhPtmHFeebzxxCdH1woQ7pump, ignoring sell signal
+2025-02-21 19:32:40,663 - INFO - New message in #general from Captain Hook
+2025-02-21 19:32:40,664 - INFO - Detected sell swap for token: HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump
+2025-02-21 19:32:40,667 - INFO - No active trade found for HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump, ignoring sell signal
+2025-02-21 19:48:15,100 - INFO - New message in #general from Captain Hook
+2025-02-21 19:48:15,101 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 19:48:30,380 - INFO - New message in #general from Captain Hook
+2025-02-21 19:48:30,381 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 19:49:08,953 - INFO - New message in #general from Captain Hook
+2025-02-21 19:49:08,953 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 19:50:15,166 - INFO - New message in #general from Captain Hook
+2025-02-21 19:50:15,167 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 19:50:53,310 - INFO - New message in #general from Captain Hook
+2025-02-21 19:50:53,311 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 19:58:00,116 - INFO - New message in #general from Captain Hook
+2025-02-21 19:58:00,117 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 19:58:13,144 - INFO - New message in #general from Captain Hook
+2025-02-21 19:58:13,145 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 19:58:53,912 - INFO - New message in #general from Captain Hook
+2025-02-21 19:58:53,913 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 19:59:54,723 - INFO - New message in #general from Captain Hook
+2025-02-21 19:59:54,723 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 20:00:30,729 - INFO - New message in #general from Captain Hook
+2025-02-21 20:00:30,729 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 20:01:15,615 - INFO - New message in #general from Captain Hook
+2025-02-21 20:01:15,615 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 20:01:30,506 - INFO - New message in #general from Captain Hook
+2025-02-21 20:01:30,507 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 20:01:59,410 - INFO - New message in #general from Captain Hook
+2025-02-21 20:01:59,411 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 20:02:58,771 - INFO - New message in #general from Captain Hook
+2025-02-21 20:02:58,772 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 20:34:46,605 - INFO - New message in #general from Captain Hook
+2025-02-21 20:34:46,608 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 20:34:58,712 - INFO - New message in #general from Captain Hook
+2025-02-21 20:34:58,712 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 20:35:37,642 - INFO - New message in #general from Captain Hook
+2025-02-21 20:35:37,642 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 20:36:42,569 - INFO - New message in #general from Captain Hook
+2025-02-21 20:36:42,572 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 20:37:17,897 - INFO - New message in #general from Captain Hook
+2025-02-21 20:37:17,897 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 20:38:03,595 - INFO - New message in #general from Captain Hook
+2025-02-21 20:38:03,596 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 20:38:16,382 - INFO - New message in #general from Captain Hook
+2025-02-21 20:38:16,382 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 20:38:40,605 - INFO - New message in #general from Captain Hook
+2025-02-21 20:38:40,605 - INFO - Detected buy swap for token: 3DWAp688Px5WRDVSmGKtDcbf3uwg94myUScTxQk9pump
+2025-02-21 20:38:40,605 - INFO - Buy attempt 1 for 3DWAp688Px5WRDVSmGKtDcbf3uwg94myUScTxQk9pump
+2025-02-21 20:38:44,615 - INFO - Successfully bought 3DWAp688Px5WRDVSmGKtDcbf3uwg94myUScTxQk9pump
+2025-02-21 20:38:46,786 - INFO - New message in #general from Captain Hook
+2025-02-21 20:38:46,786 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 20:38:51,621 - INFO - New message in #general from Captain Hook
+2025-02-21 20:38:51,621 - INFO - Detected buy swap for token: 3DWAp688Px5WRDVSmGKtDcbf3uwg94myUScTxQk9pump
+2025-02-21 20:38:51,621 - INFO - Buy attempt 1 for 3DWAp688Px5WRDVSmGKtDcbf3uwg94myUScTxQk9pump
+2025-02-21 20:38:51,621 - INFO - Resetting slippage for existing token 3DWAp688Px5WRDVSmGKtDcbf3uwg94myUScTxQk9pump
+2025-02-21 20:38:56,354 - INFO - Successfully bought 3DWAp688Px5WRDVSmGKtDcbf3uwg94myUScTxQk9pump
+2025-02-21 20:39:21,228 - INFO - New message in #general from Captain Hook
+2025-02-21 20:39:21,228 - INFO - Detected sell swap for token: 3DWAp688Px5WRDVSmGKtDcbf3uwg94myUScTxQk9pump
+2025-02-21 20:39:21,228 - INFO - Copying sell action for 3DWAp688Px5WRDVSmGKtDcbf3uwg94myUScTxQk9pump
+2025-02-21 20:39:21,228 - INFO - Starting sell for 3DWAp688Px5WRDVSmGKtDcbf3uwg94myUScTxQk9pump with initial slippage 30% (Reason: copy_sell)
+2025-02-21 20:39:21,228 - INFO - Sell attempt 1 for 3DWAp688Px5WRDVSmGKtDcbf3uwg94myUScTxQk9pump with 30% slippage
+2025-02-21 20:39:25,155 - INFO - Successfully sold 3DWAp688Px5WRDVSmGKtDcbf3uwg94myUScTxQk9pump with 30% slippage
+2025-02-21 20:39:29,003 - INFO - Shard ID None has successfully RESUMED session 90aad1a55e9666b01577efe27644cce4.
+2025-02-21 20:39:44,571 - INFO - New message in #general from Captain Hook
+2025-02-21 20:39:44,571 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 20:48:47,861 - INFO - New message in #general from Captain Hook
+2025-02-21 20:48:47,862 - INFO - Skipping non-Raydium source: JUPITER
+2025-02-21 20:52:03,284 - INFO - New message in #general from Captain Hook
+2025-02-21 20:52:03,284 - INFO - Detected buy swap for token: Bq2Mca5JatfbHnjmFhHuMx3D5k9y9JzpoR457mgipump
+2025-02-21 20:52:03,284 - INFO - Buy attempt 1 for Bq2Mca5JatfbHnjmFhHuMx3D5k9y9JzpoR457mgipump
+2025-02-21 20:52:03,606 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 20:52:04,604 - INFO - Buy attempt 2 for Bq2Mca5JatfbHnjmFhHuMx3D5k9y9JzpoR457mgipump
+2025-02-21 20:52:04,854 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 20:52:05,861 - INFO - Buy attempt 3 for Bq2Mca5JatfbHnjmFhHuMx3D5k9y9JzpoR457mgipump
+2025-02-21 20:52:06,137 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 20:52:07,149 - INFO - Buy attempt 4 for Bq2Mca5JatfbHnjmFhHuMx3D5k9y9JzpoR457mgipump
+2025-02-21 20:52:07,435 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 20:52:08,436 - INFO - Buy attempt 5 for Bq2Mca5JatfbHnjmFhHuMx3D5k9y9JzpoR457mgipump
+2025-02-21 20:52:08,732 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 20:52:09,734 - WARNING - Failed to buy Bq2Mca5JatfbHnjmFhHuMx3D5k9y9JzpoR457mgipump after 5 attempts
+2025-02-21 20:55:54,793 - INFO - New message in #general from Captain Hook
+2025-02-21 20:55:54,793 - INFO - Skipping non-Raydium source: JUPITER
+2025-02-21 20:58:37,747 - INFO - New message in #general from Captain Hook
+2025-02-21 20:58:37,748 - INFO - Detected buy swap for token: 7yK7paiPu9m5r7JznvC4QqTxkXu2zzyM58EB2Qg5pump
+2025-02-21 20:58:37,749 - INFO - Buy attempt 1 for 7yK7paiPu9m5r7JznvC4QqTxkXu2zzyM58EB2Qg5pump
+2025-02-21 20:58:38,040 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 20:58:39,048 - INFO - Buy attempt 2 for 7yK7paiPu9m5r7JznvC4QqTxkXu2zzyM58EB2Qg5pump
+2025-02-21 20:58:39,312 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 20:58:40,321 - INFO - Buy attempt 3 for 7yK7paiPu9m5r7JznvC4QqTxkXu2zzyM58EB2Qg5pump
+2025-02-21 20:58:40,596 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 20:58:41,600 - INFO - Buy attempt 4 for 7yK7paiPu9m5r7JznvC4QqTxkXu2zzyM58EB2Qg5pump
+2025-02-21 20:58:41,865 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 20:58:42,570 - INFO - New message in #general from Captain Hook
+2025-02-21 20:58:42,570 - INFO - Detected sell swap for token: Bq2Mca5JatfbHnjmFhHuMx3D5k9y9JzpoR457mgipump
+2025-02-21 20:58:42,572 - INFO - No active trade found for Bq2Mca5JatfbHnjmFhHuMx3D5k9y9JzpoR457mgipump, ignoring sell signal
+2025-02-21 20:58:42,880 - INFO - Buy attempt 5 for 7yK7paiPu9m5r7JznvC4QqTxkXu2zzyM58EB2Qg5pump
+2025-02-21 20:58:43,157 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 20:58:44,173 - WARNING - Failed to buy 7yK7paiPu9m5r7JznvC4QqTxkXu2zzyM58EB2Qg5pump after 5 attempts
+2025-02-21 20:58:47,802 - INFO - New message in #general from Captain Hook
+2025-02-21 20:58:47,802 - INFO - Detected buy swap for token: 7yK7paiPu9m5r7JznvC4QqTxkXu2zzyM58EB2Qg5pump
+2025-02-21 20:58:47,811 - INFO - Buy attempt 1 for 7yK7paiPu9m5r7JznvC4QqTxkXu2zzyM58EB2Qg5pump
+2025-02-21 20:58:48,089 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 20:58:49,105 - INFO - Buy attempt 2 for 7yK7paiPu9m5r7JznvC4QqTxkXu2zzyM58EB2Qg5pump
+2025-02-21 20:58:49,361 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 20:58:50,371 - INFO - Buy attempt 3 for 7yK7paiPu9m5r7JznvC4QqTxkXu2zzyM58EB2Qg5pump
+2025-02-21 20:58:50,642 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 20:58:51,646 - INFO - Buy attempt 4 for 7yK7paiPu9m5r7JznvC4QqTxkXu2zzyM58EB2Qg5pump
+2025-02-21 20:58:51,910 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 20:58:52,923 - INFO - Buy attempt 5 for 7yK7paiPu9m5r7JznvC4QqTxkXu2zzyM58EB2Qg5pump
+2025-02-21 20:58:53,194 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 20:58:54,206 - WARNING - Failed to buy 7yK7paiPu9m5r7JznvC4QqTxkXu2zzyM58EB2Qg5pump after 5 attempts
+2025-02-21 20:58:55,154 - INFO - New message in #general from Captain Hook
+2025-02-21 20:58:55,154 - INFO - Detected sell swap for token: 7yK7paiPu9m5r7JznvC4QqTxkXu2zzyM58EB2Qg5pump
+2025-02-21 20:58:55,154 - INFO - No active trade found for 7yK7paiPu9m5r7JznvC4QqTxkXu2zzyM58EB2Qg5pump, ignoring sell signal
+2025-02-21 21:07:42,789 - INFO - New message in #general from Captain Hook
+2025-02-21 21:07:42,789 - INFO - Detected buy swap for token: FZps4MfHbiUizRQq1SE6FkNdHcvKPG7xi1V85xPjpump
+2025-02-21 21:07:42,791 - INFO - Buy attempt 1 for FZps4MfHbiUizRQq1SE6FkNdHcvKPG7xi1V85xPjpump
+2025-02-21 21:07:43,096 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 21:07:44,095 - INFO - Buy attempt 2 for FZps4MfHbiUizRQq1SE6FkNdHcvKPG7xi1V85xPjpump
+2025-02-21 21:07:44,356 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 21:07:45,360 - INFO - Buy attempt 3 for FZps4MfHbiUizRQq1SE6FkNdHcvKPG7xi1V85xPjpump
+2025-02-21 21:07:45,645 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 21:07:46,656 - INFO - Buy attempt 4 for FZps4MfHbiUizRQq1SE6FkNdHcvKPG7xi1V85xPjpump
+2025-02-21 21:07:46,958 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 21:07:47,972 - INFO - Buy attempt 5 for FZps4MfHbiUizRQq1SE6FkNdHcvKPG7xi1V85xPjpump
+2025-02-21 21:07:48,264 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 21:07:48,585 - INFO - New message in #general from Captain Hook
+2025-02-21 21:07:48,586 - INFO - Detected sell swap for token: FZps4MfHbiUizRQq1SE6FkNdHcvKPG7xi1V85xPjpump
+2025-02-21 21:07:48,587 - INFO - No active trade found for FZps4MfHbiUizRQq1SE6FkNdHcvKPG7xi1V85xPjpump, ignoring sell signal
+2025-02-21 21:07:49,261 - WARNING - Failed to buy FZps4MfHbiUizRQq1SE6FkNdHcvKPG7xi1V85xPjpump after 5 attempts
+2025-02-21 21:08:09,236 - INFO - New message in #general from Captain Hook
+2025-02-21 21:08:09,237 - INFO - Detected sell swap for token: FZps4MfHbiUizRQq1SE6FkNdHcvKPG7xi1V85xPjpump
+2025-02-21 21:08:09,237 - INFO - No active trade found for FZps4MfHbiUizRQq1SE6FkNdHcvKPG7xi1V85xPjpump, ignoring sell signal
+2025-02-21 21:08:28,103 - INFO - New message in #general from Captain Hook
+2025-02-21 21:08:28,104 - INFO - Detected sell swap for token: FZps4MfHbiUizRQq1SE6FkNdHcvKPG7xi1V85xPjpump
+2025-02-21 21:08:28,105 - INFO - No active trade found for FZps4MfHbiUizRQq1SE6FkNdHcvKPG7xi1V85xPjpump, ignoring sell signal
+2025-02-21 21:09:46,825 - INFO - New message in #general from Captain Hook
+2025-02-21 21:09:46,827 - INFO - Detected sell swap for token: FZps4MfHbiUizRQq1SE6FkNdHcvKPG7xi1V85xPjpump
+2025-02-21 21:09:46,832 - INFO - No active trade found for FZps4MfHbiUizRQq1SE6FkNdHcvKPG7xi1V85xPjpump, ignoring sell signal
+2025-02-21 21:10:35,967 - INFO - New message in #general from Captain Hook
+2025-02-21 21:10:35,968 - INFO - Detected sell swap for token: FZps4MfHbiUizRQq1SE6FkNdHcvKPG7xi1V85xPjpump
+2025-02-21 21:10:35,968 - INFO - No active trade found for FZps4MfHbiUizRQq1SE6FkNdHcvKPG7xi1V85xPjpump, ignoring sell signal
+2025-02-21 21:11:36,452 - INFO - New message in #general from Captain Hook
+2025-02-21 21:11:36,454 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 21:11:48,653 - INFO - New message in #general from Captain Hook
+2025-02-21 21:11:48,653 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 21:12:05,853 - INFO - New message in #general from Captain Hook
+2025-02-21 21:12:05,853 - INFO - Skipping non-Raydium source: JUPITER
+2025-02-21 21:12:26,887 - INFO - New message in #general from Captain Hook
+2025-02-21 21:12:26,887 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 21:13:32,470 - INFO - New message in #general from Captain Hook
+2025-02-21 21:13:32,470 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 21:14:09,844 - INFO - New message in #general from Captain Hook
+2025-02-21 21:14:09,844 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 21:14:54,730 - INFO - New message in #general from Captain Hook
+2025-02-21 21:14:54,730 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 21:15:09,074 - INFO - New message in #general from Captain Hook
+2025-02-21 21:15:09,075 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 21:15:39,098 - INFO - New message in #general from Captain Hook
+2025-02-21 21:15:39,099 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 21:16:37,333 - INFO - New message in #general from Captain Hook
+2025-02-21 21:16:37,333 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 21:17:06,514 - INFO - New message in #general from Captain Hook
+2025-02-21 21:17:06,515 - INFO - Detected sell swap for token: 7yK7paiPu9m5r7JznvC4QqTxkXu2zzyM58EB2Qg5pump
+2025-02-21 21:17:06,518 - INFO - No active trade found for 7yK7paiPu9m5r7JznvC4QqTxkXu2zzyM58EB2Qg5pump, ignoring sell signal
+2025-02-21 21:19:51,816 - INFO - New message in #general from Captain Hook
+2025-02-21 21:19:51,816 - INFO - Skipping non-Raydium source: JUPITER
+2025-02-21 21:21:55,003 - INFO - New message in #general from Captain Hook
+2025-02-21 21:21:55,003 - INFO - Detected buy swap for token: 5yijLybqGUEviaV2WpjzZp9fJSFxtx3Eg7boMQq5pump
+2025-02-21 21:21:55,004 - INFO - Buy attempt 1 for 5yijLybqGUEviaV2WpjzZp9fJSFxtx3Eg7boMQq5pump
+2025-02-21 21:21:58,937 - INFO - Successfully bought 5yijLybqGUEviaV2WpjzZp9fJSFxtx3Eg7boMQq5pump
+2025-02-21 21:22:24,163 - INFO - Time to sell 5yijLybqGUEviaV2WpjzZp9fJSFxtx3Eg7boMQq5pump
+2025-02-21 21:22:24,164 - INFO - Starting sell for 5yijLybqGUEviaV2WpjzZp9fJSFxtx3Eg7boMQq5pump with initial slippage 30% (Reason: hold_time_reached)
+2025-02-21 21:22:24,168 - INFO - Sell attempt 1 for 5yijLybqGUEviaV2WpjzZp9fJSFxtx3Eg7boMQq5pump with 30% slippage
+2025-02-21 21:22:28,158 - INFO - Successfully sold 5yijLybqGUEviaV2WpjzZp9fJSFxtx3Eg7boMQq5pump with 30% slippage
+2025-02-21 21:26:20,102 - INFO - New message in #general from Captain Hook
+2025-02-21 21:26:20,103 - INFO - Detected sell swap for token: 5yijLybqGUEviaV2WpjzZp9fJSFxtx3Eg7boMQq5pump
+2025-02-21 21:26:20,109 - INFO - No active trade found for 5yijLybqGUEviaV2WpjzZp9fJSFxtx3Eg7boMQq5pump, ignoring sell signal
+2025-02-21 21:48:27,628 - INFO - New message in #general from Captain Hook
+2025-02-21 21:48:27,630 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 21:48:43,701 - INFO - New message in #general from Captain Hook
+2025-02-21 21:48:43,701 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 21:49:19,008 - INFO - New message in #general from Captain Hook
+2025-02-21 21:49:19,023 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 21:50:26,598 - INFO - New message in #general from Captain Hook
+2025-02-21 21:50:26,598 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 21:51:02,131 - INFO - New message in #general from Captain Hook
+2025-02-21 21:51:02,132 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 21:51:46,564 - INFO - New message in #general from Captain Hook
+2025-02-21 21:51:46,565 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 21:52:00,679 - INFO - New message in #general from Captain Hook
+2025-02-21 21:52:00,679 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 21:52:29,278 - INFO - New message in #general from Captain Hook
+2025-02-21 21:52:29,278 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 21:53:27,862 - INFO - New message in #general from Captain Hook
+2025-02-21 21:53:27,862 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 21:58:45,805 - INFO - New message in #general from Captain Hook
+2025-02-21 21:58:45,807 - WARNING - No token address found in swap message
+2025-02-21 22:03:20,890 - INFO - New message in #general from Captain Hook
+2025-02-21 22:03:20,891 - WARNING - No token address found in swap message
+2025-02-21 22:03:43,108 - INFO - New message in #general from Captain Hook
+2025-02-21 22:03:43,108 - WARNING - No token address found in swap message
+2025-02-21 22:03:49,751 - INFO - New message in #general from Captain Hook
+2025-02-21 22:03:49,751 - WARNING - No token address found in swap message
+2025-02-21 22:09:20,419 - INFO - New message in #general from Captain Hook
+2025-02-21 22:09:20,421 - WARNING - No token address found in swap message
+2025-02-21 22:15:13,714 - INFO - New message in #general from Captain Hook
+2025-02-21 22:15:13,715 - WARNING - No token address found in swap message
+2025-02-21 22:17:57,401 - INFO - logging in using static token
+2025-02-21 22:17:58,004 - INFO - Bot is starting up...
+2025-02-21 22:17:58,518 - INFO - Shard ID None has connected to Gateway (Session ID: b59909e60e5f3be713cae89b49184207).
+2025-02-21 22:18:00,520 - INFO - Logged in as outsmartchad#9773
+2025-02-21 22:18:00,520 - INFO - Monitoring channel: #general
+2025-02-21 22:18:00,520 - INFO - Monitoring incoming messages...
+2025-02-21 22:18:51,731 - INFO - New message in #general from Captain Hook
+2025-02-21 22:18:51,731 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:23:05,327 - INFO - New message in #general from Captain Hook
+2025-02-21 22:23:05,328 - INFO - Detected buy swap for token: GBkmA12xKahytfixkRyCqa5FnBqkPFTFvZFTbD3Apump
+2025-02-21 22:23:05,328 - INFO - Buy attempt 1 for GBkmA12xKahytfixkRyCqa5FnBqkPFTFvZFTbD3Apump
+2025-02-21 22:23:05,632 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 22:23:06,643 - INFO - Buy attempt 2 for GBkmA12xKahytfixkRyCqa5FnBqkPFTFvZFTbD3Apump
+2025-02-21 22:23:06,918 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 22:23:07,925 - INFO - Buy attempt 3 for GBkmA12xKahytfixkRyCqa5FnBqkPFTFvZFTbD3Apump
+2025-02-21 22:23:08,183 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 22:23:09,194 - INFO - Buy attempt 4 for GBkmA12xKahytfixkRyCqa5FnBqkPFTFvZFTbD3Apump
+2025-02-21 22:23:09,460 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 22:23:10,472 - INFO - Buy attempt 5 for GBkmA12xKahytfixkRyCqa5FnBqkPFTFvZFTbD3Apump
+2025-02-21 22:23:10,725 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 22:23:11,734 - WARNING - Failed to buy GBkmA12xKahytfixkRyCqa5FnBqkPFTFvZFTbD3Apump after 5 attempts
+2025-02-21 22:25:13,711 - INFO - New message in #general from Captain Hook
+2025-02-21 22:25:13,711 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:25:30,615 - INFO - New message in #general from Captain Hook
+2025-02-21 22:25:30,615 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:25:38,229 - INFO - New message in #general from Captain Hook
+2025-02-21 22:25:38,229 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:26:05,695 - INFO - New message in #general from Captain Hook
+2025-02-21 22:26:05,695 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:27:13,067 - INFO - New message in #general from Captain Hook
+2025-02-21 22:27:13,067 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:28:33,235 - INFO - New message in #general from Captain Hook
+2025-02-21 22:28:33,235 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:28:48,243 - INFO - New message in #general from Captain Hook
+2025-02-21 22:28:48,243 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:28:53,878 - INFO - New message in #general from Captain Hook
+2025-02-21 22:28:53,878 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:29:18,093 - INFO - New message in #general from Captain Hook
+2025-02-21 22:29:18,093 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:29:47,540 - INFO - New message in #general from Captain Hook
+2025-02-21 22:29:47,540 - INFO - Detected buy swap for token: GBkmA12xKahytfixkRyCqa5FnBqkPFTFvZFTbD3Apump
+2025-02-21 22:29:47,541 - INFO - Buy attempt 1 for GBkmA12xKahytfixkRyCqa5FnBqkPFTFvZFTbD3Apump
+2025-02-21 22:29:47,852 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 22:29:48,877 - INFO - Buy attempt 2 for GBkmA12xKahytfixkRyCqa5FnBqkPFTFvZFTbD3Apump
+2025-02-21 22:29:49,168 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 22:29:50,184 - INFO - Buy attempt 3 for GBkmA12xKahytfixkRyCqa5FnBqkPFTFvZFTbD3Apump
+2025-02-21 22:29:50,452 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 22:29:51,457 - INFO - Buy attempt 4 for GBkmA12xKahytfixkRyCqa5FnBqkPFTFvZFTbD3Apump
+2025-02-21 22:29:51,749 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 22:29:52,753 - INFO - Buy attempt 5 for GBkmA12xKahytfixkRyCqa5FnBqkPFTFvZFTbD3Apump
+2025-02-21 22:29:53,039 - INFO - Buy attempt failed, waiting before retry...
+2025-02-21 22:29:54,042 - WARNING - Failed to buy GBkmA12xKahytfixkRyCqa5FnBqkPFTFvZFTbD3Apump after 5 attempts
+2025-02-21 22:29:55,942 - INFO - New message in #general from Captain Hook
+2025-02-21 22:29:55,943 - INFO - Detected sell swap for token: GBkmA12xKahytfixkRyCqa5FnBqkPFTFvZFTbD3Apump
+2025-02-21 22:29:55,944 - INFO - No active trade found for GBkmA12xKahytfixkRyCqa5FnBqkPFTFvZFTbD3Apump, ignoring sell signal
+2025-02-21 22:31:13,163 - INFO - New message in #general from Captain Hook
+2025-02-21 22:31:13,163 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:31:17,035 - INFO - New message in #general from Captain Hook
+2025-02-21 22:31:17,035 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:39:32,732 - INFO - New message in #general from Captain Hook
+2025-02-21 22:39:32,733 - INFO - Detected buy swap for token: HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump
+2025-02-21 22:39:32,734 - INFO - Buy attempt 1 for HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump
+2025-02-21 22:39:36,628 - INFO - Successfully bought HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump
+2025-02-21 22:39:44,450 - INFO - New message in #general from Captain Hook
+2025-02-21 22:39:44,450 - INFO - Detected sell swap for token: HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump
+2025-02-21 22:39:44,452 - INFO - Copying sell action for HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump
+2025-02-21 22:39:44,453 - INFO - Starting sell for HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump with initial slippage 30% (Reason: copy_sell)
+2025-02-21 22:39:44,453 - INFO - Sell attempt 1 for HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump with 30% slippage
+2025-02-21 22:39:44,599 - INFO - Sell attempt failed, increasing slippage to 35%
+2025-02-21 22:39:45,606 - INFO - Sell attempt 2 for HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump with 35% slippage
+2025-02-21 22:39:45,713 - INFO - Sell attempt failed, increasing slippage to 40%
+2025-02-21 22:39:46,721 - INFO - Sell attempt 3 for HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump with 40% slippage
+2025-02-21 22:39:46,819 - INFO - Sell attempt failed, increasing slippage to 45%
+2025-02-21 22:39:47,823 - INFO - Sell attempt 4 for HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump with 45% slippage
+2025-02-21 22:39:51,968 - INFO - Successfully sold HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump with 45% slippage
+2025-02-21 22:44:59,220 - INFO - New message in #general from Captain Hook
+2025-02-21 22:44:59,220 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:45:14,603 - INFO - New message in #general from Captain Hook
+2025-02-21 22:45:14,604 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:45:27,898 - INFO - New message in #general from Captain Hook
+2025-02-21 22:45:27,899 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:46:39,676 - INFO - New message in #general from Captain Hook
+2025-02-21 22:46:39,676 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:46:45,380 - INFO - New message in #general from Captain Hook
+2025-02-21 22:46:45,381 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:47:27,627 - INFO - New message in #general from Captain Hook
+2025-02-21 22:47:27,627 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:47:54,057 - INFO - New message in #general from Captain Hook
+2025-02-21 22:47:54,058 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:47:58,682 - INFO - New message in #general from Captain Hook
+2025-02-21 22:47:58,683 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:48:42,472 - INFO - New message in #general from Captain Hook
+2025-02-21 22:48:42,473 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:48:50,099 - INFO - New message in #general from Captain Hook
+2025-02-21 22:48:50,100 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:49:14,232 - INFO - New message in #general from Captain Hook
+2025-02-21 22:49:14,233 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:49:21,327 - INFO - New message in #general from Captain Hook
+2025-02-21 22:49:21,328 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:53:04,532 - INFO - New message in #general from Captain Hook
+2025-02-21 22:53:04,533 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 22:53:09,257 - INFO - New message in #general from Captain Hook
+2025-02-21 22:53:09,258 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:02:00,463 - INFO - New message in #general from Captain Hook
+2025-02-21 23:02:00,463 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:02:17,050 - INFO - New message in #general from Captain Hook
+2025-02-21 23:02:17,050 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:02:22,869 - INFO - New message in #general from Captain Hook
+2025-02-21 23:02:22,869 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:02:54,657 - INFO - New message in #general from Captain Hook
+2025-02-21 23:02:54,657 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:03:59,475 - INFO - New message in #general from Captain Hook
+2025-02-21 23:03:59,475 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:05:18,681 - INFO - New message in #general from Captain Hook
+2025-02-21 23:05:18,681 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:05:35,674 - INFO - New message in #general from Captain Hook
+2025-02-21 23:05:35,674 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:05:41,363 - INFO - New message in #general from Captain Hook
+2025-02-21 23:05:41,363 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:06:03,691 - INFO - New message in #general from Captain Hook
+2025-02-21 23:06:03,691 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:19:19,865 - INFO - New message in #general from Captain Hook
+2025-02-21 23:19:19,866 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:19:33,113 - INFO - New message in #general from Captain Hook
+2025-02-21 23:19:33,113 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:19:40,136 - INFO - New message in #general from Captain Hook
+2025-02-21 23:19:40,136 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:20:11,461 - INFO - New message in #general from Captain Hook
+2025-02-21 23:20:11,461 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:21:17,077 - INFO - New message in #general from Captain Hook
+2025-02-21 23:21:17,078 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:22:16,415 - INFO - Shard ID None has successfully RESUMED session b59909e60e5f3be713cae89b49184207.
+2025-02-21 23:22:36,072 - INFO - New message in #general from Captain Hook
+2025-02-21 23:22:36,073 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:22:51,092 - INFO - New message in #general from Captain Hook
+2025-02-21 23:22:51,092 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:22:58,540 - INFO - New message in #general from Captain Hook
+2025-02-21 23:22:58,540 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:23:20,622 - INFO - New message in #general from Captain Hook
+2025-02-21 23:23:20,622 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:29:40,494 - INFO - New message in #general from Captain Hook
+2025-02-21 23:29:40,494 - WARNING - No token address found in swap message
+2025-02-21 23:29:42,760 - INFO - New message in #general from Captain Hook
+2025-02-21 23:29:42,761 - INFO - Detected buy swap for token: FikjCHYuvU55t19tqv9qPgkyTnyAy1sfcuS28Ex5pump
+2025-02-21 23:29:42,762 - INFO - Buy attempt 1 for FikjCHYuvU55t19tqv9qPgkyTnyAy1sfcuS28Ex5pump
+2025-02-21 23:29:46,493 - INFO - Successfully bought FikjCHYuvU55t19tqv9qPgkyTnyAy1sfcuS28Ex5pump
+2025-02-21 23:30:11,719 - INFO - Time to sell FikjCHYuvU55t19tqv9qPgkyTnyAy1sfcuS28Ex5pump
+2025-02-21 23:30:11,719 - INFO - Starting sell for FikjCHYuvU55t19tqv9qPgkyTnyAy1sfcuS28Ex5pump with initial slippage 30% (Reason: hold_time_reached)
+2025-02-21 23:30:11,721 - INFO - Sell attempt 1 for FikjCHYuvU55t19tqv9qPgkyTnyAy1sfcuS28Ex5pump with 30% slippage
+2025-02-21 23:30:15,611 - INFO - Successfully sold FikjCHYuvU55t19tqv9qPgkyTnyAy1sfcuS28Ex5pump with 30% slippage
+2025-02-21 23:30:53,927 - INFO - New message in #general from Captain Hook
+2025-02-21 23:30:53,927 - INFO - Detected sell swap for token: FikjCHYuvU55t19tqv9qPgkyTnyAy1sfcuS28Ex5pump
+2025-02-21 23:30:53,928 - INFO - No active trade found for FikjCHYuvU55t19tqv9qPgkyTnyAy1sfcuS28Ex5pump, ignoring sell signal
+2025-02-21 23:35:52,025 - INFO - New message in #general from Captain Hook
+2025-02-21 23:35:52,025 - INFO - Detected buy swap for token: 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump
+2025-02-21 23:35:52,026 - INFO - Buy attempt 1 for 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump
+2025-02-21 23:35:55,981 - INFO - Successfully bought 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump
+2025-02-21 23:36:21,204 - INFO - Time to sell 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump
+2025-02-21 23:36:21,204 - INFO - Starting sell for 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump with initial slippage 30% (Reason: hold_time_reached)
+2025-02-21 23:36:21,204 - INFO - Sell attempt 1 for 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump with 30% slippage
+2025-02-21 23:36:25,165 - INFO - Successfully sold 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump with 30% slippage
+2025-02-21 23:37:28,347 - INFO - New message in #general from Captain Hook
+2025-02-21 23:37:28,347 - WARNING - No token address found in swap message
+2025-02-21 23:38:01,421 - INFO - New message in #general from Captain Hook
+2025-02-21 23:38:01,422 - INFO - Detected buy swap for token: 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump
+2025-02-21 23:38:01,423 - INFO - Buy attempt 1 for 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump
+2025-02-21 23:38:05,487 - INFO - Successfully bought 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump
+2025-02-21 23:38:05,491 - INFO - New message in #general from Captain Hook
+2025-02-21 23:38:05,491 - INFO - Detected sell swap for token: 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump
+2025-02-21 23:38:05,492 - INFO - Copying sell action for 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump
+2025-02-21 23:38:05,492 - INFO - Starting sell for 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump with initial slippage 30% (Reason: copy_sell)
+2025-02-21 23:38:05,492 - INFO - Sell attempt 1 for 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump with 30% slippage
+2025-02-21 23:38:05,676 - INFO - Sell attempt failed, increasing slippage to 35%
+2025-02-21 23:38:06,689 - INFO - Sell attempt 2 for 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump with 35% slippage
+2025-02-21 23:38:06,790 - INFO - Sell attempt failed, increasing slippage to 40%
+2025-02-21 23:38:07,805 - INFO - Sell attempt 3 for 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump with 40% slippage
+2025-02-21 23:38:07,906 - INFO - Sell attempt failed, increasing slippage to 45%
+2025-02-21 23:38:08,910 - INFO - Sell attempt 4 for 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump with 45% slippage
+2025-02-21 23:38:09,052 - INFO - Sell attempt failed, increasing slippage to 50%
+2025-02-21 23:38:10,070 - INFO - Sell attempt 5 for 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump with 50% slippage
+2025-02-21 23:38:10,251 - INFO - Sell attempt failed, increasing slippage to 55%
+2025-02-21 23:38:11,259 - INFO - Sell attempt 6 for 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump with 55% slippage
+2025-02-21 23:38:11,426 - INFO - Sell attempt failed, increasing slippage to 60%
+2025-02-21 23:38:12,431 - INFO - Sell attempt 7 for 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump with 60% slippage
+2025-02-21 23:38:12,716 - INFO - Sell attempt failed, increasing slippage to 65%
+2025-02-21 23:38:13,731 - INFO - Sell attempt 8 for 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump with 65% slippage
+2025-02-21 23:38:13,941 - INFO - Sell attempt failed, increasing slippage to 70%
+2025-02-21 23:38:14,957 - INFO - Sell attempt 9 for 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump with 70% slippage
+2025-02-21 23:38:15,165 - INFO - Sell attempt failed, increasing slippage to 75%
+2025-02-21 23:38:16,181 - INFO - Sell attempt 10 for 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump with 75% slippage
+2025-02-21 23:38:20,105 - INFO - Successfully sold 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump with 75% slippage
+2025-02-21 23:38:43,497 - INFO - New message in #general from Captain Hook
+2025-02-21 23:38:43,497 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:39:37,819 - INFO - New message in #general from Captain Hook
+2025-02-21 23:39:37,819 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:39:40,722 - INFO - New message in #general from Captain Hook
+2025-02-21 23:39:40,722 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:53:48,060 - INFO - New message in #general from Captain Hook
+2025-02-21 23:53:48,061 - INFO - Detected buy swap for token: 5cWtNf8bz67Y6H1CmN3UgvJLR9mp4LjVFijYEZAfpump
+2025-02-21 23:53:48,064 - INFO - Buy attempt 1 for 5cWtNf8bz67Y6H1CmN3UgvJLR9mp4LjVFijYEZAfpump
+2025-02-21 23:53:51,941 - INFO - Successfully bought 5cWtNf8bz67Y6H1CmN3UgvJLR9mp4LjVFijYEZAfpump
+2025-02-21 23:53:57,449 - INFO - New message in #general from Captain Hook
+2025-02-21 23:53:57,450 - INFO - Detected sell swap for token: 5cWtNf8bz67Y6H1CmN3UgvJLR9mp4LjVFijYEZAfpump
+2025-02-21 23:53:57,452 - INFO - Copying sell action for 5cWtNf8bz67Y6H1CmN3UgvJLR9mp4LjVFijYEZAfpump
+2025-02-21 23:53:57,453 - INFO - Starting sell for 5cWtNf8bz67Y6H1CmN3UgvJLR9mp4LjVFijYEZAfpump with initial slippage 30% (Reason: copy_sell)
+2025-02-21 23:53:57,453 - INFO - Sell attempt 1 for 5cWtNf8bz67Y6H1CmN3UgvJLR9mp4LjVFijYEZAfpump with 30% slippage
+2025-02-21 23:53:57,545 - ERROR - Error during sell attempt: unsupported operand type(s) for *: 'NoneType' and 'float'
+2025-02-21 23:53:57,547 - INFO - Sell attempt failed, increasing slippage to 35%
+2025-02-21 23:53:58,545 - INFO - Sell attempt 2 for 5cWtNf8bz67Y6H1CmN3UgvJLR9mp4LjVFijYEZAfpump with 35% slippage
+2025-02-21 23:53:58,655 - ERROR - Error during sell attempt: unsupported operand type(s) for *: 'NoneType' and 'float'
+2025-02-21 23:53:58,656 - INFO - Sell attempt failed, increasing slippage to 40%
+2025-02-21 23:53:59,659 - INFO - Sell attempt 3 for 5cWtNf8bz67Y6H1CmN3UgvJLR9mp4LjVFijYEZAfpump with 40% slippage
+2025-02-21 23:53:59,823 - ERROR - Error during sell attempt: unsupported operand type(s) for *: 'NoneType' and 'float'
+2025-02-21 23:53:59,825 - INFO - Sell attempt failed, increasing slippage to 45%
+2025-02-21 23:54:00,840 - INFO - Sell attempt 4 for 5cWtNf8bz67Y6H1CmN3UgvJLR9mp4LjVFijYEZAfpump with 45% slippage
+2025-02-21 23:54:00,950 - ERROR - Error during sell attempt: unsupported operand type(s) for *: 'NoneType' and 'float'
+2025-02-21 23:54:00,951 - INFO - Sell attempt failed, increasing slippage to 50%
+2025-02-21 23:54:01,957 - INFO - Sell attempt 5 for 5cWtNf8bz67Y6H1CmN3UgvJLR9mp4LjVFijYEZAfpump with 50% slippage
+2025-02-21 23:54:02,063 - ERROR - Error during sell attempt: unsupported operand type(s) for *: 'NoneType' and 'float'
+2025-02-21 23:54:02,067 - INFO - Sell attempt failed, increasing slippage to 55%
+2025-02-21 23:54:03,079 - INFO - Sell attempt 6 for 5cWtNf8bz67Y6H1CmN3UgvJLR9mp4LjVFijYEZAfpump with 55% slippage
+2025-02-21 23:54:07,087 - INFO - Successfully sold 5cWtNf8bz67Y6H1CmN3UgvJLR9mp4LjVFijYEZAfpump with 55% slippage
+2025-02-21 23:57:54,000 - INFO - New message in #general from Captain Hook
+2025-02-21 23:57:54,000 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:58:08,418 - INFO - New message in #general from Captain Hook
+2025-02-21 23:58:08,418 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:58:16,366 - INFO - New message in #general from Captain Hook
+2025-02-21 23:58:16,366 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-21 23:58:44,833 - INFO - New message in #general from Captain Hook
+2025-02-21 23:58:44,834 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 00:06:21,676 - INFO - New message in #general from Captain Hook
+2025-02-22 00:06:21,676 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 00:06:36,462 - INFO - New message in #general from Captain Hook
+2025-02-22 00:06:36,462 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 00:06:44,233 - INFO - New message in #general from Captain Hook
+2025-02-22 00:06:44,233 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 00:07:14,857 - INFO - New message in #general from Captain Hook
+2025-02-22 00:07:14,857 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 00:08:18,778 - INFO - New message in #general from Captain Hook
+2025-02-22 00:08:18,778 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 00:09:41,163 - INFO - New message in #general from Captain Hook
+2025-02-22 00:09:41,163 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 00:09:54,439 - INFO - New message in #general from Captain Hook
+2025-02-22 00:09:54,439 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 00:10:00,708 - INFO - New message in #general from Captain Hook
+2025-02-22 00:10:00,708 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 00:10:25,691 - INFO - New message in #general from Captain Hook
+2025-02-22 00:10:25,691 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 00:17:02,944 - INFO - New message in #general from Captain Hook
+2025-02-22 00:17:02,944 - INFO - Detected buy swap for token: 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump
+2025-02-22 00:17:02,946 - INFO - Buy attempt 1 for 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump
+2025-02-22 00:17:07,030 - INFO - Successfully bought 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump
+2025-02-22 00:17:32,185 - INFO - Time to sell 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump
+2025-02-22 00:17:32,185 - INFO - Starting sell for 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump with initial slippage 30% (Reason: hold_time_reached)
+2025-02-22 00:17:32,185 - INFO - Sell attempt 1 for 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump with 30% slippage
+2025-02-22 00:17:36,094 - INFO - Successfully sold 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump with 30% slippage
+2025-02-22 00:18:02,770 - INFO - New message in #general from Captain Hook
+2025-02-22 00:18:02,771 - WARNING - No token address found in swap message
+2025-02-22 00:29:08,168 - INFO - New message in #general from Captain Hook
+2025-02-22 00:29:08,168 - INFO - Detected buy swap for token: DvLSF6zRTzC2xDnhSgpsiCxscE4BGMfH4p3YsF5Tpump
+2025-02-22 00:29:08,170 - INFO - Buy attempt 1 for DvLSF6zRTzC2xDnhSgpsiCxscE4BGMfH4p3YsF5Tpump
+2025-02-22 00:29:12,112 - INFO - Successfully bought DvLSF6zRTzC2xDnhSgpsiCxscE4BGMfH4p3YsF5Tpump
+2025-02-22 00:29:20,440 - INFO - New message in #general from Captain Hook
+2025-02-22 00:29:20,440 - WARNING - No token address found in swap message
+2025-02-22 00:29:37,285 - INFO - Time to sell DvLSF6zRTzC2xDnhSgpsiCxscE4BGMfH4p3YsF5Tpump
+2025-02-22 00:29:37,285 - INFO - Starting sell for DvLSF6zRTzC2xDnhSgpsiCxscE4BGMfH4p3YsF5Tpump with initial slippage 30% (Reason: hold_time_reached)
+2025-02-22 00:29:37,285 - INFO - Sell attempt 1 for DvLSF6zRTzC2xDnhSgpsiCxscE4BGMfH4p3YsF5Tpump with 30% slippage
+2025-02-22 00:29:41,152 - INFO - Successfully sold DvLSF6zRTzC2xDnhSgpsiCxscE4BGMfH4p3YsF5Tpump with 30% slippage
+2025-02-22 00:31:38,010 - INFO - New message in #general from Captain Hook
+2025-02-22 00:31:38,010 - INFO - Detected buy swap for token: 56Zd4JLcQ13ohgykN4zPaLKQ7n8hVbNedptDkLzApump
+2025-02-22 00:31:38,012 - INFO - Buy attempt 1 for 56Zd4JLcQ13ohgykN4zPaLKQ7n8hVbNedptDkLzApump
+2025-02-22 00:31:38,522 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 00:31:39,537 - INFO - Buy attempt 2 for 56Zd4JLcQ13ohgykN4zPaLKQ7n8hVbNedptDkLzApump
+2025-02-22 00:31:39,806 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 00:31:40,825 - INFO - Buy attempt 3 for 56Zd4JLcQ13ohgykN4zPaLKQ7n8hVbNedptDkLzApump
+2025-02-22 00:31:41,223 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 00:31:42,233 - INFO - Buy attempt 4 for 56Zd4JLcQ13ohgykN4zPaLKQ7n8hVbNedptDkLzApump
+2025-02-22 00:31:42,622 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 00:31:43,637 - INFO - Buy attempt 5 for 56Zd4JLcQ13ohgykN4zPaLKQ7n8hVbNedptDkLzApump
+2025-02-22 00:31:44,082 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 00:31:45,090 - WARNING - Failed to buy 56Zd4JLcQ13ohgykN4zPaLKQ7n8hVbNedptDkLzApump after 5 attempts
+2025-02-22 00:32:51,913 - INFO - New message in #general from Captain Hook
+2025-02-22 00:32:51,914 - INFO - Detected buy swap for token: AC9MciTbH5EpLgo4bT1bKWs9721fB294z72Kebnipump
+2025-02-22 00:32:51,915 - INFO - Buy attempt 1 for AC9MciTbH5EpLgo4bT1bKWs9721fB294z72Kebnipump
+2025-02-22 00:32:52,318 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 00:32:53,327 - INFO - Buy attempt 2 for AC9MciTbH5EpLgo4bT1bKWs9721fB294z72Kebnipump
+2025-02-22 00:32:53,728 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 00:32:54,737 - INFO - Buy attempt 3 for AC9MciTbH5EpLgo4bT1bKWs9721fB294z72Kebnipump
+2025-02-22 00:32:55,232 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 00:32:56,242 - INFO - Buy attempt 4 for AC9MciTbH5EpLgo4bT1bKWs9721fB294z72Kebnipump
+2025-02-22 00:32:56,667 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 00:32:57,669 - INFO - Buy attempt 5 for AC9MciTbH5EpLgo4bT1bKWs9721fB294z72Kebnipump
+2025-02-22 00:32:58,151 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 00:32:59,159 - WARNING - Failed to buy AC9MciTbH5EpLgo4bT1bKWs9721fB294z72Kebnipump after 5 attempts
+2025-02-22 00:34:48,328 - INFO - New message in #general from Captain Hook
+2025-02-22 00:34:48,328 - INFO - Detected sell swap for token: 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump
+2025-02-22 00:34:48,329 - INFO - No active trade found for 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump, ignoring sell signal
+2025-02-22 00:37:13,097 - INFO - New message in #general from Captain Hook
+2025-02-22 00:37:13,097 - INFO - Detected buy swap for token: BmXsfjfevCXct6R5dcKLMuTFtxkc929UcMkToSiwpump
+2025-02-22 00:37:13,098 - INFO - Buy attempt 1 for BmXsfjfevCXct6R5dcKLMuTFtxkc929UcMkToSiwpump
+2025-02-22 00:37:13,533 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 00:37:14,555 - INFO - Buy attempt 2 for BmXsfjfevCXct6R5dcKLMuTFtxkc929UcMkToSiwpump
+2025-02-22 00:37:15,016 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 00:37:16,010 - INFO - Buy attempt 3 for BmXsfjfevCXct6R5dcKLMuTFtxkc929UcMkToSiwpump
+2025-02-22 00:37:16,448 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 00:37:17,453 - INFO - Buy attempt 4 for BmXsfjfevCXct6R5dcKLMuTFtxkc929UcMkToSiwpump
+2025-02-22 00:37:17,857 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 00:37:18,871 - INFO - Buy attempt 5 for BmXsfjfevCXct6R5dcKLMuTFtxkc929UcMkToSiwpump
+2025-02-22 00:37:19,275 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 00:37:20,280 - WARNING - Failed to buy BmXsfjfevCXct6R5dcKLMuTFtxkc929UcMkToSiwpump after 5 attempts
+2025-02-22 00:43:10,530 - INFO - New message in #general from Captain Hook
+2025-02-22 00:43:10,530 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 00:43:24,059 - INFO - New message in #general from Captain Hook
+2025-02-22 00:43:24,074 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 00:43:32,197 - INFO - New message in #general from Captain Hook
+2025-02-22 00:43:32,198 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 00:44:00,841 - INFO - New message in #general from Captain Hook
+2025-02-22 00:44:00,841 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 00:45:05,377 - INFO - New message in #general from Captain Hook
+2025-02-22 00:45:05,377 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 00:46:27,771 - INFO - New message in #general from Captain Hook
+2025-02-22 00:46:27,772 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 00:46:42,539 - INFO - New message in #general from Captain Hook
+2025-02-22 00:46:42,539 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 00:46:51,562 - INFO - New message in #general from Captain Hook
+2025-02-22 00:46:51,562 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 00:47:13,109 - INFO - New message in #general from Captain Hook
+2025-02-22 00:47:13,124 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 00:56:42,303 - INFO - New message in #general from Captain Hook
+2025-02-22 00:56:42,303 - INFO - Detected buy swap for token: 4NBTf8PfLH4oLFnwf3knv46FY9i5oXjDxffCetXRpump
+2025-02-22 00:56:42,304 - INFO - Buy attempt 1 for 4NBTf8PfLH4oLFnwf3knv46FY9i5oXjDxffCetXRpump
+2025-02-22 00:56:46,209 - INFO - Successfully bought 4NBTf8PfLH4oLFnwf3knv46FY9i5oXjDxffCetXRpump
+2025-02-22 00:57:11,438 - INFO - Time to sell 4NBTf8PfLH4oLFnwf3knv46FY9i5oXjDxffCetXRpump
+2025-02-22 00:57:11,439 - INFO - Starting sell for 4NBTf8PfLH4oLFnwf3knv46FY9i5oXjDxffCetXRpump with initial slippage 30% (Reason: hold_time_reached)
+2025-02-22 00:57:11,441 - INFO - Sell attempt 1 for 4NBTf8PfLH4oLFnwf3knv46FY9i5oXjDxffCetXRpump with 30% slippage
+2025-02-22 00:57:15,325 - INFO - Successfully sold 4NBTf8PfLH4oLFnwf3knv46FY9i5oXjDxffCetXRpump with 30% slippage
+2025-02-22 00:57:34,476 - INFO - New message in #general from Captain Hook
+2025-02-22 00:57:34,476 - WARNING - No token address found in swap message
+2025-02-22 00:57:47,452 - INFO - New message in #general from Captain Hook
+2025-02-22 00:57:47,452 - WARNING - No token address found in swap message
+2025-02-22 00:58:17,861 - INFO - New message in #general from Captain Hook
+2025-02-22 00:58:17,861 - WARNING - No token address found in swap message
+2025-02-22 00:59:10,892 - INFO - New message in #general from Captain Hook
+2025-02-22 00:59:10,893 - WARNING - No token address found in swap message
+2025-02-22 00:59:52,716 - INFO - New message in #general from Captain Hook
+2025-02-22 00:59:52,716 - WARNING - No token address found in swap message
+2025-02-22 01:01:55,800 - INFO - New message in #general from Captain Hook
+2025-02-22 01:01:55,800 - WARNING - No token address found in swap message
+2025-02-22 01:17:58,191 - INFO - New message in #general from Captain Hook
+2025-02-22 01:17:58,192 - INFO - Detected buy swap for token: 7qBF9JTR4EU7TcPARBFUQSkf4UKoHumhCsJH2U54pump
+2025-02-22 01:17:58,193 - INFO - Buy attempt 1 for 7qBF9JTR4EU7TcPARBFUQSkf4UKoHumhCsJH2U54pump
+2025-02-22 01:17:58,780 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 01:17:59,801 - INFO - Buy attempt 2 for 7qBF9JTR4EU7TcPARBFUQSkf4UKoHumhCsJH2U54pump
+2025-02-22 01:18:00,298 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 01:18:01,311 - INFO - Buy attempt 3 for 7qBF9JTR4EU7TcPARBFUQSkf4UKoHumhCsJH2U54pump
+2025-02-22 01:18:01,809 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 01:18:02,826 - INFO - Buy attempt 4 for 7qBF9JTR4EU7TcPARBFUQSkf4UKoHumhCsJH2U54pump
+2025-02-22 01:18:03,305 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 01:18:04,313 - INFO - Buy attempt 5 for 7qBF9JTR4EU7TcPARBFUQSkf4UKoHumhCsJH2U54pump
+2025-02-22 01:18:04,785 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 01:18:05,789 - WARNING - Failed to buy 7qBF9JTR4EU7TcPARBFUQSkf4UKoHumhCsJH2U54pump after 5 attempts
+2025-02-22 01:18:48,117 - INFO - New message in #general from Captain Hook
+2025-02-22 01:18:48,117 - INFO - Detected sell swap for token: AC9MciTbH5EpLgo4bT1bKWs9721fB294z72Kebnipump
+2025-02-22 01:18:48,118 - INFO - No active trade found for AC9MciTbH5EpLgo4bT1bKWs9721fB294z72Kebnipump, ignoring sell signal
+2025-02-22 01:19:53,695 - INFO - New message in #general from Captain Hook
+2025-02-22 01:19:53,695 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 01:20:10,321 - INFO - New message in #general from Captain Hook
+2025-02-22 01:20:10,321 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 01:20:16,857 - INFO - New message in #general from Captain Hook
+2025-02-22 01:20:16,857 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 01:20:46,712 - INFO - New message in #general from Captain Hook
+2025-02-22 01:20:46,712 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 01:21:51,758 - INFO - New message in #general from Captain Hook
+2025-02-22 01:21:51,759 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 01:23:13,955 - INFO - New message in #general from Captain Hook
+2025-02-22 01:23:13,956 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 01:23:29,810 - INFO - New message in #general from Captain Hook
+2025-02-22 01:23:29,810 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 01:23:37,499 - INFO - New message in #general from Captain Hook
+2025-02-22 01:23:37,499 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 01:24:00,230 - INFO - New message in #general from Captain Hook
+2025-02-22 01:24:00,230 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 01:56:45,387 - INFO - New message in #general from Captain Hook
+2025-02-22 01:56:45,387 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 01:57:00,742 - INFO - New message in #general from Captain Hook
+2025-02-22 01:57:00,742 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 01:57:06,842 - INFO - New message in #general from Captain Hook
+2025-02-22 01:57:06,842 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 01:57:38,401 - INFO - New message in #general from Captain Hook
+2025-02-22 01:57:38,401 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 01:58:43,808 - INFO - New message in #general from Captain Hook
+2025-02-22 01:58:43,808 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:00:04,222 - INFO - New message in #general from Captain Hook
+2025-02-22 02:00:04,222 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:00:21,141 - INFO - New message in #general from Captain Hook
+2025-02-22 02:00:21,141 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:00:26,873 - INFO - New message in #general from Captain Hook
+2025-02-22 02:00:26,873 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:00:49,029 - INFO - New message in #general from Captain Hook
+2025-02-22 02:00:49,029 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:01:49,548 - INFO - Shard ID None has successfully RESUMED session b59909e60e5f3be713cae89b49184207.
+2025-02-22 02:10:32,548 - INFO - New message in #general from Captain Hook
+2025-02-22 02:10:32,548 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:10:47,939 - INFO - New message in #general from Captain Hook
+2025-02-22 02:10:47,939 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:10:54,792 - INFO - New message in #general from Captain Hook
+2025-02-22 02:10:54,792 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:11:22,396 - INFO - New message in #general from Captain Hook
+2025-02-22 02:11:22,396 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:12:29,784 - INFO - New message in #general from Captain Hook
+2025-02-22 02:12:29,784 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:13:50,717 - INFO - New message in #general from Captain Hook
+2025-02-22 02:13:50,717 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:14:05,010 - INFO - New message in #general from Captain Hook
+2025-02-22 02:14:05,010 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:14:13,326 - INFO - New message in #general from Captain Hook
+2025-02-22 02:14:13,326 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:14:34,035 - INFO - New message in #general from Captain Hook
+2025-02-22 02:14:34,035 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:24:45,267 - INFO - New message in #general from Captain Hook
+2025-02-22 02:24:45,267 - INFO - Detected buy swap for token: mtf8MdbqxbCwe7uDwfwtyRvBM3ofdecNia5p79rpump
+2025-02-22 02:24:45,267 - INFO - Buy attempt 1 for mtf8MdbqxbCwe7uDwfwtyRvBM3ofdecNia5p79rpump
+2025-02-22 02:24:45,548 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 02:24:46,559 - INFO - Buy attempt 2 for mtf8MdbqxbCwe7uDwfwtyRvBM3ofdecNia5p79rpump
+2025-02-22 02:24:46,821 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 02:24:47,831 - INFO - Buy attempt 3 for mtf8MdbqxbCwe7uDwfwtyRvBM3ofdecNia5p79rpump
+2025-02-22 02:24:48,073 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 02:24:49,076 - INFO - Buy attempt 4 for mtf8MdbqxbCwe7uDwfwtyRvBM3ofdecNia5p79rpump
+2025-02-22 02:24:49,332 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 02:24:50,338 - INFO - Buy attempt 5 for mtf8MdbqxbCwe7uDwfwtyRvBM3ofdecNia5p79rpump
+2025-02-22 02:24:50,622 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 02:24:51,632 - WARNING - Failed to buy mtf8MdbqxbCwe7uDwfwtyRvBM3ofdecNia5p79rpump after 5 attempts
+2025-02-22 02:25:05,721 - INFO - New message in #general from Captain Hook
+2025-02-22 02:25:05,722 - INFO - Detected sell swap for token: mtf8MdbqxbCwe7uDwfwtyRvBM3ofdecNia5p79rpump
+2025-02-22 02:25:05,724 - INFO - No active trade found for mtf8MdbqxbCwe7uDwfwtyRvBM3ofdecNia5p79rpump, ignoring sell signal
+2025-02-22 02:25:42,744 - INFO - New message in #general from Captain Hook
+2025-02-22 02:25:42,744 - INFO - Detected sell swap for token: 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump
+2025-02-22 02:25:42,745 - INFO - No active trade found for 2HgGbD1SirQmBVi1qkNjoNQVNDNzXPAeUB9nGEoypump, ignoring sell signal
+2025-02-22 02:26:56,834 - INFO - New message in #general from Captain Hook
+2025-02-22 02:26:56,834 - WARNING - No token address found in swap message
+2025-02-22 02:43:11,387 - INFO - New message in #general from Captain Hook
+2025-02-22 02:43:11,388 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:43:17,569 - INFO - New message in #general from Captain Hook
+2025-02-22 02:43:17,570 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:46:42,694 - INFO - New message in #general from Captain Hook
+2025-02-22 02:46:42,694 - INFO - Detected buy swap for token: bnycDW9avjX8cwnvvkfjJntkv5GTfp7ETjRg6G7pump
+2025-02-22 02:46:42,695 - INFO - Buy attempt 1 for bnycDW9avjX8cwnvvkfjJntkv5GTfp7ETjRg6G7pump
+2025-02-22 02:46:43,234 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 02:46:44,240 - INFO - Buy attempt 2 for bnycDW9avjX8cwnvvkfjJntkv5GTfp7ETjRg6G7pump
+2025-02-22 02:46:44,695 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 02:46:45,699 - INFO - Buy attempt 3 for bnycDW9avjX8cwnvvkfjJntkv5GTfp7ETjRg6G7pump
+2025-02-22 02:46:46,207 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 02:46:47,220 - INFO - Buy attempt 4 for bnycDW9avjX8cwnvvkfjJntkv5GTfp7ETjRg6G7pump
+2025-02-22 02:46:47,660 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 02:46:48,679 - INFO - Buy attempt 5 for bnycDW9avjX8cwnvvkfjJntkv5GTfp7ETjRg6G7pump
+2025-02-22 02:46:49,136 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 02:46:50,149 - WARNING - Failed to buy bnycDW9avjX8cwnvvkfjJntkv5GTfp7ETjRg6G7pump after 5 attempts
+2025-02-22 02:47:23,493 - INFO - New message in #general from Captain Hook
+2025-02-22 02:47:23,493 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:47:38,642 - INFO - New message in #general from Captain Hook
+2025-02-22 02:47:38,642 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:47:46,896 - INFO - New message in #general from Captain Hook
+2025-02-22 02:47:46,896 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:48:16,687 - INFO - New message in #general from Captain Hook
+2025-02-22 02:48:16,687 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:49:23,468 - INFO - New message in #general from Captain Hook
+2025-02-22 02:49:23,468 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:50:27,549 - INFO - New message in #general from Captain Hook
+2025-02-22 02:50:27,550 - INFO - Detected buy swap for token: 2a3RKzwpHDPwpS7tmrzTgwkGZoG4u7j7Gmic5xptpump
+2025-02-22 02:50:27,551 - INFO - Buy attempt 1 for 2a3RKzwpHDPwpS7tmrzTgwkGZoG4u7j7Gmic5xptpump
+2025-02-22 02:50:28,068 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 02:50:29,072 - INFO - Buy attempt 2 for 2a3RKzwpHDPwpS7tmrzTgwkGZoG4u7j7Gmic5xptpump
+2025-02-22 02:50:29,480 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 02:50:30,495 - INFO - Buy attempt 3 for 2a3RKzwpHDPwpS7tmrzTgwkGZoG4u7j7Gmic5xptpump
+2025-02-22 02:50:30,902 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 02:50:31,918 - INFO - Buy attempt 4 for 2a3RKzwpHDPwpS7tmrzTgwkGZoG4u7j7Gmic5xptpump
+2025-02-22 02:50:32,373 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 02:50:33,391 - INFO - Buy attempt 5 for 2a3RKzwpHDPwpS7tmrzTgwkGZoG4u7j7Gmic5xptpump
+2025-02-22 02:50:33,857 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 02:50:34,862 - WARNING - Failed to buy 2a3RKzwpHDPwpS7tmrzTgwkGZoG4u7j7Gmic5xptpump after 5 attempts
+2025-02-22 02:50:43,057 - INFO - New message in #general from Captain Hook
+2025-02-22 02:50:43,057 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:50:46,368 - INFO - New message in #general from Captain Hook
+2025-02-22 02:50:46,368 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:50:57,416 - INFO - New message in #general from Captain Hook
+2025-02-22 02:50:57,416 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:51:05,657 - INFO - New message in #general from Captain Hook
+2025-02-22 02:51:05,657 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:51:26,734 - INFO - New message in #general from Captain Hook
+2025-02-22 02:51:26,734 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 02:52:28,428 - INFO - Shard ID None has successfully RESUMED session b59909e60e5f3be713cae89b49184207.
+2025-02-22 02:54:21,363 - INFO - New message in #general from Captain Hook
+2025-02-22 02:54:21,363 - INFO - Detected buy swap for token: BieefG47jAHCGZBxi2q87RDuHyGZyYC3vAzxpyu8pump
+2025-02-22 02:54:21,364 - INFO - Buy attempt 1 for BieefG47jAHCGZBxi2q87RDuHyGZyYC3vAzxpyu8pump
+2025-02-22 02:54:21,828 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 02:54:22,848 - INFO - Buy attempt 2 for BieefG47jAHCGZBxi2q87RDuHyGZyYC3vAzxpyu8pump
+2025-02-22 02:54:23,225 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 02:54:24,223 - INFO - Buy attempt 3 for BieefG47jAHCGZBxi2q87RDuHyGZyYC3vAzxpyu8pump
+2025-02-22 02:54:24,619 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 02:54:25,624 - INFO - Buy attempt 4 for BieefG47jAHCGZBxi2q87RDuHyGZyYC3vAzxpyu8pump
+2025-02-22 02:54:26,092 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 02:54:27,100 - INFO - Buy attempt 5 for BieefG47jAHCGZBxi2q87RDuHyGZyYC3vAzxpyu8pump
+2025-02-22 02:54:27,518 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 02:54:28,533 - WARNING - Failed to buy BieefG47jAHCGZBxi2q87RDuHyGZyYC3vAzxpyu8pump after 5 attempts
+2025-02-22 03:05:13,614 - INFO - New message in #general from Captain Hook
+2025-02-22 03:05:13,614 - INFO - Detected buy swap for token: 9G8PLyPv6aurVwNksP1ozWWM5M3H3GrYZoSgk4Cipump
+2025-02-22 03:05:13,616 - INFO - Buy attempt 1 for 9G8PLyPv6aurVwNksP1ozWWM5M3H3GrYZoSgk4Cipump
+2025-02-22 03:05:14,140 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 03:05:15,151 - INFO - Buy attempt 2 for 9G8PLyPv6aurVwNksP1ozWWM5M3H3GrYZoSgk4Cipump
+2025-02-22 03:05:15,546 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 03:05:16,548 - INFO - Buy attempt 3 for 9G8PLyPv6aurVwNksP1ozWWM5M3H3GrYZoSgk4Cipump
+2025-02-22 03:05:16,962 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 03:05:17,977 - INFO - Buy attempt 4 for 9G8PLyPv6aurVwNksP1ozWWM5M3H3GrYZoSgk4Cipump
+2025-02-22 03:05:18,436 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 03:05:19,446 - INFO - Buy attempt 5 for 9G8PLyPv6aurVwNksP1ozWWM5M3H3GrYZoSgk4Cipump
+2025-02-22 03:05:19,810 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 03:05:20,822 - WARNING - Failed to buy 9G8PLyPv6aurVwNksP1ozWWM5M3H3GrYZoSgk4Cipump after 5 attempts
+2025-02-22 03:07:07,880 - INFO - New message in #general from Captain Hook
+2025-02-22 03:07:07,880 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 03:09:14,746 - INFO - New message in #general from Captain Hook
+2025-02-22 03:09:14,746 - INFO - Skipping non-Raydium source: JUPITER
+2025-02-22 03:12:18,500 - INFO - New message in #general from Captain Hook
+2025-02-22 03:12:18,500 - INFO - Skipping non-Raydium source: JUPITER
+2025-02-22 03:13:29,534 - INFO - New message in #general from Captain Hook
+2025-02-22 03:13:29,535 - INFO - Detected sell swap for token: 4NBTf8PfLH4oLFnwf3knv46FY9i5oXjDxffCetXRpump
+2025-02-22 03:13:29,536 - INFO - No active trade found for 4NBTf8PfLH4oLFnwf3knv46FY9i5oXjDxffCetXRpump, ignoring sell signal
+2025-02-22 03:24:10,776 - INFO - New message in #general from Captain Hook
+2025-02-22 03:24:10,776 - INFO - Detected sell swap for token: 9G8PLyPv6aurVwNksP1ozWWM5M3H3GrYZoSgk4Cipump
+2025-02-22 03:24:10,778 - INFO - No active trade found for 9G8PLyPv6aurVwNksP1ozWWM5M3H3GrYZoSgk4Cipump, ignoring sell signal
+2025-02-22 03:24:18,693 - INFO - New message in #general from Captain Hook
+2025-02-22 03:24:18,693 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 03:24:31,218 - INFO - New message in #general from Captain Hook
+2025-02-22 03:24:31,218 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 03:24:38,759 - INFO - New message in #general from Captain Hook
+2025-02-22 03:24:38,759 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 03:25:07,470 - INFO - New message in #general from Captain Hook
+2025-02-22 03:25:07,470 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 03:25:25,332 - INFO - New message in #general from Captain Hook
+2025-02-22 03:25:25,333 - WARNING - No token address found in swap message
+2025-02-22 03:25:34,819 - INFO - New message in #general from Captain Hook
+2025-02-22 03:25:34,820 - WARNING - No token address found in swap message
+2025-02-22 03:26:03,824 - INFO - New message in #general from Captain Hook
+2025-02-22 03:26:03,824 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 03:26:13,804 - INFO - New message in #general from Captain Hook
+2025-02-22 03:26:13,804 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 03:26:15,590 - INFO - New message in #general from Captain Hook
+2025-02-22 03:26:15,591 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 03:26:44,569 - INFO - New message in #general from Captain Hook
+2025-02-22 03:26:44,570 - INFO - Detected sell swap for token: bnycDW9avjX8cwnvvkfjJntkv5GTfp7ETjRg6G7pump
+2025-02-22 03:26:44,571 - INFO - No active trade found for bnycDW9avjX8cwnvvkfjJntkv5GTfp7ETjRg6G7pump, ignoring sell signal
+2025-02-22 03:27:34,908 - INFO - New message in #general from Captain Hook
+2025-02-22 03:27:34,908 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 03:27:49,937 - INFO - New message in #general from Captain Hook
+2025-02-22 03:27:49,937 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 03:27:57,187 - INFO - New message in #general from Captain Hook
+2025-02-22 03:27:57,187 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 03:28:20,967 - INFO - New message in #general from Captain Hook
+2025-02-22 03:28:20,967 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 03:32:22,054 - INFO - New message in #general from Captain Hook
+2025-02-22 03:32:22,054 - WARNING - No token address found in swap message
+2025-02-22 03:32:43,980 - INFO - New message in #general from Captain Hook
+2025-02-22 03:32:43,981 - WARNING - No token address found in swap message
+2025-02-22 03:34:58,246 - INFO - New message in #general from Captain Hook
+2025-02-22 03:34:58,247 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 03:35:11,753 - INFO - New message in #general from Captain Hook
+2025-02-22 03:35:11,754 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 03:38:30,790 - INFO - New message in #general from Captain Hook
+2025-02-22 03:38:30,791 - WARNING - No token address found in swap message
+2025-02-22 03:38:43,421 - INFO - New message in #general from Captain Hook
+2025-02-22 03:38:43,421 - WARNING - No token address found in swap message
+2025-02-22 03:53:38,270 - INFO - New message in #general from Captain Hook
+2025-02-22 03:53:38,270 - INFO - Detected buy swap for token: 5NocHMLRLtpBz7FVKJP4X6Es2UfHYMJ3VCJAzUJQpump
+2025-02-22 03:53:38,272 - INFO - Buy attempt 1 for 5NocHMLRLtpBz7FVKJP4X6Es2UfHYMJ3VCJAzUJQpump
+2025-02-22 03:53:38,552 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 03:53:39,574 - INFO - Buy attempt 2 for 5NocHMLRLtpBz7FVKJP4X6Es2UfHYMJ3VCJAzUJQpump
+2025-02-22 03:53:39,844 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 03:53:40,846 - INFO - Buy attempt 3 for 5NocHMLRLtpBz7FVKJP4X6Es2UfHYMJ3VCJAzUJQpump
+2025-02-22 03:53:41,091 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 03:53:42,090 - INFO - Buy attempt 4 for 5NocHMLRLtpBz7FVKJP4X6Es2UfHYMJ3VCJAzUJQpump
+2025-02-22 03:53:42,348 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 03:53:43,352 - INFO - Buy attempt 5 for 5NocHMLRLtpBz7FVKJP4X6Es2UfHYMJ3VCJAzUJQpump
+2025-02-22 03:53:43,603 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 03:53:44,608 - WARNING - Failed to buy 5NocHMLRLtpBz7FVKJP4X6Es2UfHYMJ3VCJAzUJQpump after 5 attempts
+2025-02-22 03:56:46,491 - INFO - New message in #general from Captain Hook
+2025-02-22 03:56:46,492 - WARNING - No token address found in swap message
+2025-02-22 03:56:47,950 - INFO - New message in #general from Captain Hook
+2025-02-22 03:56:47,950 - INFO - Detected sell swap for token: 5NocHMLRLtpBz7FVKJP4X6Es2UfHYMJ3VCJAzUJQpump
+2025-02-22 03:56:47,951 - INFO - No active trade found for 5NocHMLRLtpBz7FVKJP4X6Es2UfHYMJ3VCJAzUJQpump, ignoring sell signal
+2025-02-22 04:01:09,643 - INFO - New message in #general from Captain Hook
+2025-02-22 04:01:09,643 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 04:01:23,935 - INFO - New message in #general from Captain Hook
+2025-02-22 04:01:23,935 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 04:01:30,268 - INFO - New message in #general from Captain Hook
+2025-02-22 04:01:30,268 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 04:02:01,607 - INFO - New message in #general from Captain Hook
+2025-02-22 04:02:01,623 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 04:03:07,252 - INFO - New message in #general from Captain Hook
+2025-02-22 04:03:07,252 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 04:04:29,544 - INFO - New message in #general from Captain Hook
+2025-02-22 04:04:29,544 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 04:04:43,091 - INFO - New message in #general from Captain Hook
+2025-02-22 04:04:43,091 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 04:04:50,972 - INFO - New message in #general from Captain Hook
+2025-02-22 04:04:50,972 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 04:05:12,532 - INFO - New message in #general from Captain Hook
+2025-02-22 04:05:12,532 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 04:20:01,225 - INFO - New message in #general from Captain Hook
+2025-02-22 04:20:01,225 - INFO - Detected buy swap for token: EmBjYtD8ax1njc8JvpxykxfVVevKrLHzLzjJ2THDpump
+2025-02-22 04:20:01,226 - INFO - Buy attempt 1 for EmBjYtD8ax1njc8JvpxykxfVVevKrLHzLzjJ2THDpump
+2025-02-22 04:20:01,499 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 04:20:02,514 - INFO - Buy attempt 2 for EmBjYtD8ax1njc8JvpxykxfVVevKrLHzLzjJ2THDpump
+2025-02-22 04:20:02,775 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 04:20:03,782 - INFO - Buy attempt 3 for EmBjYtD8ax1njc8JvpxykxfVVevKrLHzLzjJ2THDpump
+2025-02-22 04:20:04,046 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 04:20:05,057 - INFO - Buy attempt 4 for EmBjYtD8ax1njc8JvpxykxfVVevKrLHzLzjJ2THDpump
+2025-02-22 04:20:05,304 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 04:20:06,310 - INFO - Buy attempt 5 for EmBjYtD8ax1njc8JvpxykxfVVevKrLHzLzjJ2THDpump
+2025-02-22 04:20:06,564 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 04:20:07,579 - WARNING - Failed to buy EmBjYtD8ax1njc8JvpxykxfVVevKrLHzLzjJ2THDpump after 5 attempts
+2025-02-22 04:20:36,908 - INFO - New message in #general from Captain Hook
+2025-02-22 04:20:36,909 - INFO - Detected buy swap for token: EmBjYtD8ax1njc8JvpxykxfVVevKrLHzLzjJ2THDpump
+2025-02-22 04:20:36,910 - INFO - Buy attempt 1 for EmBjYtD8ax1njc8JvpxykxfVVevKrLHzLzjJ2THDpump
+2025-02-22 04:20:37,161 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 04:20:38,177 - INFO - Buy attempt 2 for EmBjYtD8ax1njc8JvpxykxfVVevKrLHzLzjJ2THDpump
+2025-02-22 04:20:38,427 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 04:20:39,431 - INFO - Buy attempt 3 for EmBjYtD8ax1njc8JvpxykxfVVevKrLHzLzjJ2THDpump
+2025-02-22 04:20:39,689 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 04:20:40,703 - INFO - Buy attempt 4 for EmBjYtD8ax1njc8JvpxykxfVVevKrLHzLzjJ2THDpump
+2025-02-22 04:20:40,969 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 04:20:41,979 - INFO - Buy attempt 5 for EmBjYtD8ax1njc8JvpxykxfVVevKrLHzLzjJ2THDpump
+2025-02-22 04:20:42,280 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 04:20:43,294 - WARNING - Failed to buy EmBjYtD8ax1njc8JvpxykxfVVevKrLHzLzjJ2THDpump after 5 attempts
+2025-02-22 05:00:19,767 - INFO - Shard ID None has successfully RESUMED session b59909e60e5f3be713cae89b49184207.
+2025-02-22 05:34:16,767 - INFO - New message in #general from Captain Hook
+2025-02-22 05:34:16,767 - WARNING - No token address found in swap message
+2025-02-22 05:34:21,239 - INFO - New message in #general from Captain Hook
+2025-02-22 05:34:21,239 - WARNING - No token address found in swap message
+2025-02-22 05:35:33,716 - INFO - New message in #general from Captain Hook
+2025-02-22 05:35:33,716 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 05:36:14,700 - INFO - New message in #general from Captain Hook
+2025-02-22 05:36:14,700 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 05:37:26,230 - INFO - New message in #general from Captain Hook
+2025-02-22 05:37:26,231 - WARNING - No token address found in swap message
+2025-02-22 05:41:00,573 - INFO - New message in #general from Captain Hook
+2025-02-22 05:41:00,574 - WARNING - No token address found in swap message
+2025-02-22 05:47:51,047 - INFO - New message in #general from Captain Hook
+2025-02-22 05:47:51,047 - WARNING - No token address found in swap message
+2025-02-22 05:48:45,203 - INFO - New message in #general from Captain Hook
+2025-02-22 05:48:45,203 - INFO - Detected buy swap for token: BZEjdrrgrH8a1UCozg7HNogHr6ov4c623MobAdM7pump
+2025-02-22 05:48:45,204 - INFO - Buy attempt 1 for BZEjdrrgrH8a1UCozg7HNogHr6ov4c623MobAdM7pump
+2025-02-22 05:48:45,647 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 05:48:46,656 - INFO - Buy attempt 2 for BZEjdrrgrH8a1UCozg7HNogHr6ov4c623MobAdM7pump
+2025-02-22 05:48:47,140 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 05:48:48,147 - INFO - Buy attempt 3 for BZEjdrrgrH8a1UCozg7HNogHr6ov4c623MobAdM7pump
+2025-02-22 05:48:48,636 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 05:48:49,649 - INFO - Buy attempt 4 for BZEjdrrgrH8a1UCozg7HNogHr6ov4c623MobAdM7pump
+2025-02-22 05:48:50,090 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 05:48:51,098 - INFO - Buy attempt 5 for BZEjdrrgrH8a1UCozg7HNogHr6ov4c623MobAdM7pump
+2025-02-22 05:48:51,673 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 05:48:52,690 - WARNING - Failed to buy BZEjdrrgrH8a1UCozg7HNogHr6ov4c623MobAdM7pump after 5 attempts
+2025-02-22 05:51:40,651 - INFO - New message in #general from Captain Hook
+2025-02-22 05:51:40,651 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 05:51:55,128 - INFO - New message in #general from Captain Hook
+2025-02-22 05:51:55,128 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 05:52:01,891 - INFO - New message in #general from Captain Hook
+2025-02-22 05:52:01,892 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 05:52:31,271 - INFO - New message in #general from Captain Hook
+2025-02-22 05:52:31,271 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 05:53:37,196 - INFO - New message in #general from Captain Hook
+2025-02-22 05:53:37,196 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 05:54:57,890 - INFO - New message in #general from Captain Hook
+2025-02-22 05:54:57,890 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 05:55:11,936 - INFO - New message in #general from Captain Hook
+2025-02-22 05:55:11,936 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 05:55:19,187 - INFO - New message in #general from Captain Hook
+2025-02-22 05:55:19,187 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 05:55:43,359 - INFO - New message in #general from Captain Hook
+2025-02-22 05:55:43,359 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 05:56:09,132 - INFO - New message in #general from Captain Hook
+2025-02-22 05:56:09,133 - INFO - Detected buy swap for token: HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump
+2025-02-22 05:56:09,134 - INFO - Buy attempt 1 for HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump
+2025-02-22 05:56:12,894 - INFO - Successfully bought HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump
+2025-02-22 05:56:17,134 - INFO - New message in #general from Captain Hook
+2025-02-22 05:56:17,135 - INFO - Detected sell swap for token: HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump
+2025-02-22 05:56:17,137 - INFO - Copying sell action for HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump
+2025-02-22 05:56:17,138 - INFO - Starting sell for HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump with initial slippage 30% (Reason: copy_sell)
+2025-02-22 05:56:17,139 - INFO - Sell attempt 1 for HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump with 30% slippage
+2025-02-22 05:56:17,328 - INFO - Sell attempt failed, increasing slippage to 35%
+2025-02-22 05:56:18,343 - INFO - Sell attempt 2 for HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump with 35% slippage
+2025-02-22 05:56:18,443 - INFO - Sell attempt failed, increasing slippage to 40%
+2025-02-22 05:56:19,438 - INFO - Sell attempt 3 for HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump with 40% slippage
+2025-02-22 05:56:19,574 - INFO - Sell attempt failed, increasing slippage to 45%
+2025-02-22 05:56:20,576 - INFO - Sell attempt 4 for HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump with 45% slippage
+2025-02-22 05:56:20,680 - INFO - Sell attempt failed, increasing slippage to 50%
+2025-02-22 05:56:21,695 - INFO - Sell attempt 5 for HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump with 50% slippage
+2025-02-22 05:56:21,782 - INFO - Sell attempt failed, increasing slippage to 55%
+2025-02-22 05:56:22,798 - INFO - Sell attempt 6 for HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump with 55% slippage
+2025-02-22 05:56:22,957 - INFO - Sell attempt failed, increasing slippage to 60%
+2025-02-22 05:56:23,967 - INFO - Sell attempt 7 for HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump with 60% slippage
+2025-02-22 05:56:27,909 - INFO - Successfully sold HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump with 60% slippage
+2025-02-22 05:58:18,652 - INFO - New message in #general from Captain Hook
+2025-02-22 05:58:18,653 - INFO - Detected sell swap for token: HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump
+2025-02-22 05:58:18,654 - INFO - No active trade found for HggwFYZwyZK7G6eyhFR1ZtSswUcB1kVuQQtY9L7Rpump, ignoring sell signal
+2025-02-22 06:09:00,142 - INFO - New message in #general from Captain Hook
+2025-02-22 06:09:00,143 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 06:18:02,948 - INFO - New message in #general from Captain Hook
+2025-02-22 06:18:02,949 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 06:18:29,100 - INFO - New message in #general from Captain Hook
+2025-02-22 06:18:29,100 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 06:28:27,955 - INFO - New message in #general from Captain Hook
+2025-02-22 06:28:27,955 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 06:28:43,650 - INFO - New message in #general from Captain Hook
+2025-02-22 06:28:43,650 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 06:28:49,373 - INFO - New message in #general from Captain Hook
+2025-02-22 06:28:49,373 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 06:29:20,137 - INFO - New message in #general from Captain Hook
+2025-02-22 06:29:20,137 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 06:30:25,184 - INFO - New message in #general from Captain Hook
+2025-02-22 06:30:25,184 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 06:31:46,240 - INFO - New message in #general from Captain Hook
+2025-02-22 06:31:46,240 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 06:32:01,299 - INFO - New message in #general from Captain Hook
+2025-02-22 06:32:01,299 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 06:32:09,004 - INFO - New message in #general from Captain Hook
+2025-02-22 06:32:09,004 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 06:32:31,718 - INFO - New message in #general from Captain Hook
+2025-02-22 06:32:31,718 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 07:01:42,061 - INFO - New message in #general from Captain Hook
+2025-02-22 07:01:42,062 - INFO - Detected buy swap for token: e7DX4nGxAnJcUNBNF2UTBPZYRseLXQfegh8Cxfstart
+2025-02-22 07:01:42,064 - INFO - Buy attempt 1 for e7DX4nGxAnJcUNBNF2UTBPZYRseLXQfegh8Cxfstart
+2025-02-22 07:01:42,618 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 07:01:43,642 - INFO - Buy attempt 2 for e7DX4nGxAnJcUNBNF2UTBPZYRseLXQfegh8Cxfstart
+2025-02-22 07:01:44,081 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 07:01:45,099 - INFO - Buy attempt 3 for e7DX4nGxAnJcUNBNF2UTBPZYRseLXQfegh8Cxfstart
+2025-02-22 07:01:45,592 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 07:01:46,601 - INFO - Buy attempt 4 for e7DX4nGxAnJcUNBNF2UTBPZYRseLXQfegh8Cxfstart
+2025-02-22 07:01:47,093 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 07:01:48,104 - INFO - Buy attempt 5 for e7DX4nGxAnJcUNBNF2UTBPZYRseLXQfegh8Cxfstart
+2025-02-22 07:01:48,639 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 07:01:49,650 - WARNING - Failed to buy e7DX4nGxAnJcUNBNF2UTBPZYRseLXQfegh8Cxfstart after 5 attempts
+2025-02-22 07:05:18,693 - INFO - New message in #general from Captain Hook
+2025-02-22 07:05:18,693 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 07:05:33,100 - INFO - New message in #general from Captain Hook
+2025-02-22 07:05:33,100 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 07:05:40,269 - INFO - New message in #general from Captain Hook
+2025-02-22 07:05:40,269 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 07:06:10,101 - INFO - New message in #general from Captain Hook
+2025-02-22 07:06:10,101 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 07:07:15,291 - INFO - New message in #general from Captain Hook
+2025-02-22 07:07:15,307 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 07:08:35,862 - INFO - New message in #general from Captain Hook
+2025-02-22 07:08:35,862 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 07:08:51,166 - INFO - New message in #general from Captain Hook
+2025-02-22 07:08:51,166 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 07:08:58,029 - INFO - New message in #general from Captain Hook
+2025-02-22 07:08:58,029 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 07:09:21,246 - INFO - New message in #general from Captain Hook
+2025-02-22 07:09:21,246 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 07:21:06,400 - INFO - New message in #general from Captain Hook
+2025-02-22 07:21:06,401 - INFO - Detected sell swap for token: e7DX4nGxAnJcUNBNF2UTBPZYRseLXQfegh8Cxfstart
+2025-02-22 07:21:06,402 - INFO - No active trade found for e7DX4nGxAnJcUNBNF2UTBPZYRseLXQfegh8Cxfstart, ignoring sell signal
+2025-02-22 07:21:56,910 - INFO - Shard ID None has successfully RESUMED session b59909e60e5f3be713cae89b49184207.
+2025-02-22 07:35:09,930 - INFO - New message in #general from Captain Hook
+2025-02-22 07:35:09,930 - WARNING - No token address found in swap message
+2025-02-22 07:35:54,684 - INFO - New message in #general from Captain Hook
+2025-02-22 07:35:54,685 - INFO - Detected sell swap for token: 2a3RKzwpHDPwpS7tmrzTgwkGZoG4u7j7Gmic5xptpump
+2025-02-22 07:35:54,686 - INFO - No active trade found for 2a3RKzwpHDPwpS7tmrzTgwkGZoG4u7j7Gmic5xptpump, ignoring sell signal
+2025-02-22 07:36:14,996 - INFO - New message in #general from Captain Hook
+2025-02-22 07:36:14,996 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 07:36:32,339 - INFO - New message in #general from Captain Hook
+2025-02-22 07:36:32,339 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 07:36:38,448 - INFO - New message in #general from Captain Hook
+2025-02-22 07:36:38,448 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 07:37:07,895 - INFO - New message in #general from Captain Hook
+2025-02-22 07:37:07,895 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 07:38:13,126 - INFO - New message in #general from Captain Hook
+2025-02-22 07:38:13,126 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 07:39:34,406 - INFO - New message in #general from Captain Hook
+2025-02-22 07:39:34,406 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 07:39:49,359 - INFO - New message in #general from Captain Hook
+2025-02-22 07:39:49,359 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 07:39:55,961 - INFO - New message in #general from Captain Hook
+2025-02-22 07:39:55,961 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 07:40:18,456 - INFO - New message in #general from Captain Hook
+2025-02-22 07:40:18,456 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 07:41:08,563 - INFO - New message in #general from Captain Hook
+2025-02-22 07:41:08,563 - INFO - Detected buy swap for token: 62B6LfUXSHrykjvxft6aKq4gxDrcM2vEdso1Kmk3pump
+2025-02-22 07:41:08,564 - INFO - Buy attempt 1 for 62B6LfUXSHrykjvxft6aKq4gxDrcM2vEdso1Kmk3pump
+2025-02-22 07:41:09,020 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 07:41:10,044 - INFO - Buy attempt 2 for 62B6LfUXSHrykjvxft6aKq4gxDrcM2vEdso1Kmk3pump
+2025-02-22 07:41:10,447 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 07:41:11,451 - INFO - Buy attempt 3 for 62B6LfUXSHrykjvxft6aKq4gxDrcM2vEdso1Kmk3pump
+2025-02-22 07:41:11,946 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 07:41:12,955 - INFO - Buy attempt 4 for 62B6LfUXSHrykjvxft6aKq4gxDrcM2vEdso1Kmk3pump
+2025-02-22 07:41:13,379 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 07:41:14,396 - INFO - Buy attempt 5 for 62B6LfUXSHrykjvxft6aKq4gxDrcM2vEdso1Kmk3pump
+2025-02-22 07:41:14,835 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 07:41:15,849 - WARNING - Failed to buy 62B6LfUXSHrykjvxft6aKq4gxDrcM2vEdso1Kmk3pump after 5 attempts
+2025-02-22 07:43:28,858 - INFO - New message in #general from Captain Hook
+2025-02-22 07:43:28,858 - INFO - Skipping non-Raydium source: JUPITER
+2025-02-22 07:45:43,033 - INFO - New message in #general from Captain Hook
+2025-02-22 07:45:43,034 - WARNING - No token address found in swap message
+2025-02-22 07:46:29,733 - INFO - New message in #general from Captain Hook
+2025-02-22 07:46:29,734 - WARNING - No token address found in swap message
+2025-02-22 07:46:55,120 - INFO - New message in #general from Captain Hook
+2025-02-22 07:46:55,120 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 07:46:59,525 - INFO - New message in #general from Captain Hook
+2025-02-22 07:46:59,525 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 07:47:50,059 - INFO - New message in #general from Captain Hook
+2025-02-22 07:47:50,060 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 07:47:56,306 - INFO - New message in #general from Captain Hook
+2025-02-22 07:47:56,307 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 07:47:56,597 - INFO - New message in #general from Captain Hook
+2025-02-22 07:47:56,598 - INFO - Skipping non-Raydium source: JUPITER
+2025-02-22 07:48:55,662 - INFO - New message in #general from Captain Hook
+2025-02-22 07:48:55,663 - INFO - Detected buy swap for token: TbDYECFcPHnG4fTwXwtEwxaa3vmRjpF8hYDAMG7pump
+2025-02-22 07:48:55,664 - INFO - Buy attempt 1 for TbDYECFcPHnG4fTwXwtEwxaa3vmRjpF8hYDAMG7pump
+2025-02-22 07:48:56,248 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 07:48:57,256 - INFO - Buy attempt 2 for TbDYECFcPHnG4fTwXwtEwxaa3vmRjpF8hYDAMG7pump
+2025-02-22 07:48:57,773 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 07:48:58,779 - INFO - Buy attempt 3 for TbDYECFcPHnG4fTwXwtEwxaa3vmRjpF8hYDAMG7pump
+2025-02-22 07:48:59,268 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 07:49:00,279 - INFO - Buy attempt 4 for TbDYECFcPHnG4fTwXwtEwxaa3vmRjpF8hYDAMG7pump
+2025-02-22 07:49:00,785 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 07:49:01,799 - INFO - Buy attempt 5 for TbDYECFcPHnG4fTwXwtEwxaa3vmRjpF8hYDAMG7pump
+2025-02-22 07:49:02,295 - INFO - Buy attempt failed, waiting before retry...
+2025-02-22 07:49:03,301 - WARNING - Failed to buy TbDYECFcPHnG4fTwXwtEwxaa3vmRjpF8hYDAMG7pump after 5 attempts
+2025-02-22 07:49:18,599 - INFO - New message in #general from Captain Hook
+2025-02-22 07:49:18,600 - INFO - Detected sell swap for token: TbDYECFcPHnG4fTwXwtEwxaa3vmRjpF8hYDAMG7pump
+2025-02-22 07:49:18,601 - INFO - No active trade found for TbDYECFcPHnG4fTwXwtEwxaa3vmRjpF8hYDAMG7pump, ignoring sell signal
+2025-02-22 08:13:04,204 - INFO - New message in #general from Captain Hook
+2025-02-22 08:13:04,204 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 08:13:18,655 - INFO - New message in #general from Captain Hook
+2025-02-22 08:13:18,655 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 08:13:26,594 - INFO - New message in #general from Captain Hook
+2025-02-22 08:13:26,594 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 08:13:40,497 - INFO - New message in #general from Captain Hook
+2025-02-22 08:13:40,498 - INFO - Detected sell swap for token: 2a3RKzwpHDPwpS7tmrzTgwkGZoG4u7j7Gmic5xptpump
+2025-02-22 08:13:40,502 - INFO - No active trade found for 2a3RKzwpHDPwpS7tmrzTgwkGZoG4u7j7Gmic5xptpump, ignoring sell signal
+2025-02-22 08:13:55,378 - INFO - New message in #general from Captain Hook
+2025-02-22 08:13:55,378 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 08:15:01,387 - INFO - New message in #general from Captain Hook
+2025-02-22 08:15:01,387 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 08:16:23,273 - INFO - New message in #general from Captain Hook
+2025-02-22 08:16:23,273 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 08:16:39,207 - INFO - New message in #general from Captain Hook
+2025-02-22 08:16:39,207 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 08:16:45,269 - INFO - New message in #general from Captain Hook
+2025-02-22 08:16:45,285 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 08:17:06,976 - INFO - New message in #general from Captain Hook
+2025-02-22 08:17:06,976 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 08:46:23,551 - INFO - logging in using static token
+2025-02-22 08:46:24,229 - INFO - Bot is starting up...
+2025-02-22 08:46:24,681 - INFO - Shard ID None has connected to Gateway (Session ID: ffc3eb22d4ac37122272e453956a98ab).
+2025-02-22 08:46:26,693 - INFO - Logged in as outsmartchad#9773
+2025-02-22 08:46:26,693 - INFO - Monitoring channel: #general
+2025-02-22 08:46:26,693 - INFO - Monitoring incoming messages...
+2025-02-22 08:49:53,437 - INFO - New message in #general from Captain Hook
+2025-02-22 08:49:53,437 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 08:50:10,153 - INFO - New message in #general from Captain Hook
+2025-02-22 08:50:10,153 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 08:50:15,914 - INFO - New message in #general from Captain Hook
+2025-02-22 08:50:15,914 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 08:50:45,198 - INFO - New message in #general from Captain Hook
+2025-02-22 08:50:45,198 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 08:51:52,668 - INFO - New message in #general from Captain Hook
+2025-02-22 08:51:52,668 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 08:53:12,352 - INFO - New message in #general from Captain Hook
+2025-02-22 08:53:12,352 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 08:53:28,120 - INFO - New message in #general from Captain Hook
+2025-02-22 08:53:28,120 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 08:53:35,587 - INFO - New message in #general from Captain Hook
+2025-02-22 08:53:35,588 - INFO - Skipping non-Raydium source: PUMP_FUN
+2025-02-22 08:53:58,218 - INFO - New message in #general from Captain Hook
+2025-02-22 08:53:58,219 - INFO - Skipping non-Raydium source: PUMP_FUN
