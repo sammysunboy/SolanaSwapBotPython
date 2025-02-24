@@ -13,7 +13,7 @@ PRIVATE_KEY = "YOUR_PRIVATE_KEY"  # Your Solana wallet's private key in base58
 
 # Discord Configuration
 DISCORD_TOKEN = "YOUR_DISCORD_TOKEN"    # Get from Discord Developer Portal
-DISCORD_CHANNEL = 123456789             # Right-click channel → Copy ID 
+TARGET_CHANNEL_ID = 123456789             # Right-click channel → Copy ID 
                                        # (Need Developer Mode enabled in Discord)
 
 # ==== DO NOT EDIT BELOW THIS LINE ====
